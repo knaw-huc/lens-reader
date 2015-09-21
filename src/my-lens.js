@@ -6,7 +6,7 @@ var panels = Lens.getDefaultPanels();
 // All available converters
 var LensConverter = require("lens/converter");
 var CustomConverter = require("./custom_converter");
-var ElifeConverter = require("lens/converter/elife_converter");
+//var ElifeConverter = require("lens/converter/elife_converter");
 
 // Custom Panels
 // -------------------
@@ -18,10 +18,10 @@ var ElifeConverter = require("lens/converter/elife_converter");
 // Find the code in panels/altmetrics and use it as an inspiration
 // to build your own Lens panel
 
-var altmetricsPanel = require('./panels/altmetrics');
+//var altmetricsPanel = require('./panels/altmetrics');
 
 // Insert altmetrics panel at next to last position
-panels.splice(-1, 0, altmetricsPanel);
+//panels.splice(-1, 0, altmetricsPanel);
 
 var LensApp = function(config) {
   Lens.call(this, config);
@@ -40,8 +40,8 @@ LensApp.Prototype = function() {
 
   this.getConverters = function(converterOptions) {
     return [
-      new CustomConverter(converterOptions),
-      new ElifeConverter(converterOptions),
+      //new CustomConverter(converterOptions),
+      //new ElifeConverter(converterOptions),
       new LensConverter(converterOptions)
     ]
   };
