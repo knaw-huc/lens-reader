@@ -22,7 +22,7 @@
                 </subj-group>
             </article-categories>
             <title-group>
-                <article-title>Direct single molecule measurement of TCR triggering by agonist pMHC in living primary T cells</article-title>
+                <article-title>Beispiel Doc</article-title>
             </title-group>
             <contrib-group>
                 <contrib contrib-type="author" equal-contrib="yes" id="author-4813">
@@ -37,59 +37,13 @@
                     <xref ref-type="fn" rid="con1" />
                     <xref ref-type="fn" rid="conf1" />
                 </contrib>
-                <contrib contrib-type="author" equal-contrib="yes" id="author-4814">
-                    <name>
-                        <surname>Pielak</surname>
-                        <given-names>Rafal M</given-names>
-                    </name>
-                    <xref ref-type="aff" rid="aff1" />
-                    <xref ref-type="aff" rid="aff2" />
-                    <xref ref-type="fn" rid="equal-contrib">†</xref>
-                    <xref ref-type="other" rid="par-1" />
-                    <xref ref-type="fn" rid="con2" />
-                    <xref ref-type="fn" rid="conf1" />
-                </contrib>
-                <contrib contrib-type="author" id="author-4815">
-                    <name>
-                        <surname>Smoligovets</surname>
-                        <given-names>Alexander A</given-names>
-                    </name>
-                    <xref ref-type="aff" rid="aff1" />
-                    <xref ref-type="aff" rid="aff2" />
-                    <xref ref-type="aff" rid="aff3" />
-                    <xref ref-type="other" rid="par-1" />
-                    <xref ref-type="fn" rid="con3" />
-                    <xref ref-type="fn" rid="conf1" />
-                </contrib>
-                <contrib contrib-type="author" id="author-4816">
-                    <name>
-                        <surname>Lin</surname>
-                        <given-names>Jenny J</given-names>
-                    </name>
-                    <xref ref-type="aff" rid="aff1" />
-                    <xref ref-type="aff" rid="aff2" />
-                    <xref ref-type="other" rid="par-1" />
-                    <xref ref-type="fn" rid="con4" />
-                    <xref ref-type="fn" rid="conf1" />
-                </contrib>
-                <contrib contrib-type="author" corresp="yes" id="author-4713">
-                    <name>
-                        <surname>Groves</surname>
-                        <given-names>Jay T</given-names>
-                    </name>
-                    <xref ref-type="aff" rid="aff1" />
-                    <xref ref-type="aff" rid="aff2" />
-                    <xref ref-type="corresp" rid="cor1">*</xref>
-                    <xref ref-type="other" rid="par-1" />
-                    <xref ref-type="fn" rid="con5" />
-                    <xref ref-type="fn" rid="conf1" />
-                </contrib>
-                <aff id="aff1">
-                    <institution content-type="dept">Department of Chemistry</institution>, <institution>Howard Hughes Medical Institute, University of California, Berkeley</institution>, <addr-line><named-content content-type="city">Berkeley</named-content></addr-line>, <country>United States</country></aff>
-                <aff id="aff2">
-                    <institution content-type="dept">Physical Biosciences Division</institution>, <institution>Lawrence Berkeley National Laboratory, University of California, Berkeley</institution>, <addr-line><named-content content-type="city">Berkeley</named-content></addr-line>, <country>United States</country></aff>
-                <aff id="aff3">
-                    <institution content-type="dept">Department of Molecular and Cell Biology</institution>, <institution>University of California, Berkeley</institution>, <addr-line><named-content content-type="city">Berkeley</named-content></addr-line>, <country>United States</country></aff>
+                
+                
+                
+                
+                
+                
+                
             </contrib-group>
             <contrib-group content-type="section">
                 <contrib contrib-type="editor">
@@ -208,25 +162,33 @@
         <sec id="s2" sec-type="results">
             <title>Results</title>
             <sec id="s2-1">
-                <title>Characterization of agonist pMHC:TCR complexes</title>
-                <my_raptor img_path="https://placehold.it/350x150" short_description="Raptor!">asdasdsad</my_raptor>
-                <P><xref ref-type="fig" rid="raptor_1">Raptor</xref>)</P>
+                <title>ZItation Beispiel</title>
+                <!--my_raptor img_path="https://placehold.it/350x150" short_description="Raptor!">asdasdsad</my_raptor-->
+                <!--P><xref ref-type="fig" rid="raptor_1">Raptor</xref>)</P-->
                
                 <p>
                     <boxed-text id="93475984357983">
-                        <p>Disp Text</p>
+                        <p>This is a test box for lens .The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. We thank David King of the HHMI Mass Spec Facility for peptide synthesis and Mass Spectroscopy, Nicole Fay, Kate Alfieri, and Niña Hartman for MHC purification, and Brian D Belardi for a critical reading of the manuscript.</p>
                         
                     </boxed-text>
                 </p>
+                
+                <p>
+                    <disp-quote id="93475984357983">
+                        <p>This is a test box for lens .The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. We thank David King of the HHMI Mass Spec Facility for peptide synthesis and Mass Spectroscopy, Nicole Fay, Kate Alfieri, and Niña Hartman for MHC purification, and Brian D Belardi for a critical reading of the manuscript.</p>
+                        
+                    </disp-quote>
+                </p>
+                
                 <p>
                     
-                    Divide
+                
                     
                 </p>
                 
                 <p>
                     <disp-quote id="93475984357983">
-                        <p>Disp Quote</p>
+                        <p>This is a citation for lens. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. We thank David King of the HHMI Mass Spec Facility for peptide synthesis and Mass Spectroscopy, Nicole Fay, Kate Alfieri, and Niña Hartman for MHC purification, and Brian D Belardi for a critical reading of the manuscript.</p>
                         
                     </disp-quote>
                     
@@ -235,16 +197,14 @@
             </sec>
             <sec id="s2-4">
                 <title>Stochastic reaction-diffusion simulations</title>
-                <p>We quantitatively assess the possibility of serial rebinding of agonist pMHC to multiple TCR within a TCR cluster using a stochastic reaction-diffusion simulation over a large range of <inline-formula><mml:math id="inf15"><mml:mrow><mml:mrow><mml:mo>〈</mml:mo><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow><mml:mo>〉</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula> and TCR cluster size. The total time to escape for an individual molecule, which is the parameter directly measured in pMHC tracking experiments, is given by:<disp-formula id="equ2"><mml:math id="m2"><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">esc</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mstyle displaystyle="true"><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mi>n</mml:mi></mml:munderover><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:mstyle><mml:mo>+</mml:mo><mml:mstyle displaystyle="true"><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>n</mml:mi></mml:munderover><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">on</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:mstyle><mml:mo>+</mml:mo><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">exit</mml:mi></mml:msub></mml:mrow></mml:math></disp-formula></p>
-                <p>In this representation, <inline-formula><mml:math id="inf16"><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math id="inf17"><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">on</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math></inline-formula> are the individual dwell times in the bound and unbound configurations, <italic>n</italic> is the number of rebinding events, and <inline-formula><mml:math id="inf18"><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">exit</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> is the duration of the final unbound period prior to ultimate escape. For the stochastic simulation, <inline-formula><mml:math id="inf19"><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math id="inf20"><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">on</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math></inline-formula> are treated as random variables with exponential distributions defined by the in situ measured values of <italic>k</italic><sub><italic>off</italic></sub> and <italic>k</italic><sub><italic>on</italic></sub> for pMHC:TCR binding, respectively. If the pMHC diffuses out of the TCR cluster prior to rebinding, it has escaped. Otherwise, the pMHC rebinds and the cycle repeats. Using the fastest <italic>k</italic><sub><italic>on</italic></sub> (0.17 µm<sup>2</sup>s<sup>−1</sup>molecule<sup>−1</sup>) observed in similar hybrid live cell-SLB systems (<xref ref-type="bibr" rid="bib18">Huppa et al., 2010</xref>) and the measured diffusion coefficient of pMHC in our supported membranes, we find that <inline-formula><mml:math id="inf21"><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">esc</mml:mi></mml:msub><mml:mo>≈</mml:mo><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> for TCR clusters of the sizes observed experimentally (<xref ref-type="bibr" rid="bib42">Varma et al., 2006</xref>) (≤100 TCR molecules) (<xref ref-type="fig" rid="fig6">Figure 6</xref>). Only for unrealistically large TCR clusters (∼1000 TCR molecules) could rebinding within the same cluster lead to appreciable entrapment <inline-formula><mml:math id="inf22"><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">esc</mml:mi></mml:msub><mml:mo>&gt;</mml:mo><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">exit</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula> (<xref ref-type="fig" rid="fig6s1">Figure 6—figure supplement 1</xref>).<fig-group><fig id="fig6" position="float"><object-id pub-id-type="doi">10.7554/eLife.00778.013</object-id><label>Figure 6.</label><caption><title>Stochastic reaction-diffusion simulation of time before MCC agonist pMHC escape from TCR clusters, <italic>τ</italic><sub><italic>esc</italic></sub> (in color; log scale), as a function of <italic>τ</italic><sub><italic>off</italic></sub> and TCR cluster size.</title><p>For small TCR clusters (1–100 TCR molecules) <italic>τ</italic><sub><italic>off</italic></sub> ≈ <italic>τ</italic><sub><italic>esc</italic></sub>, indicating no serial rebinding. Only for unrealistically large TCR clusters (1000–10,000 molecules) does <inline-formula><mml:math id="inf23"><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">esc</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> become appreciably longer than <inline-formula><mml:math id="inf24"><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>.</p><p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00778.013">http://dx.doi.org/10.7554/eLife.00778.013</ext-link></p></caption><graphic xlink:href="elife00778f006" /></fig><fig id="fig6s1" position="float" specific-use="child-fig"><object-id pub-id-type="doi">10.7554/eLife.00778.014</object-id><label>Figure 6—figure supplement 1.</label><caption><title>Stochastic reaction-diffusion simulation of time before MCC agonist pMHC escape from TCR clusters.</title><p>Simulations of <inline-formula><mml:math id="inf56"><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">esc</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></inline-formula> as a function of TCR cluster size, <inline-formula><mml:math id="inf57"><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> , and <italic>k</italic><sub><italic>on</italic></sub>. The ratio <inline-formula><mml:math id="inf58"><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">esc</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></inline-formula>, which is an indicator of agonist pMHC entrapment, is a function of TCR cluster size and <italic>k</italic><sub><italic>on</italic></sub>, but not <italic>k</italic><sub><italic>off</italic></sub>. <italic>k</italic><sub><italic>on</italic></sub> = 0.51 µm<sup>2</sup>s<sup>−1</sup>molecule<sup>−1</sup> corresponds to the fastest average <italic>k</italic><sub><italic>on</italic></sub> that allows for rebinding to the same TCR. Only for unrealistically large TCR cluster sizes (approaching 1000 TCRs per cluster) and fast <italic>k</italic><sub><italic>on</italic></sub> is <inline-formula><mml:math id="inf59"><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mrow><mml:mi mathvariant="italic">esc</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>≫</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math></inline-formula>, meaning that entrapment due to millisecond-scale unbinding and rebinding is unlikely to result in the minute-scale dwell times observed in our experiments.</p><p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00778.014">http://dx.doi.org/10.7554/eLife.00778.014</ext-link></p></caption><graphic xlink:href="elife00778fs003" /></fig></fig-group></p>
-                <p>These simulations indicate that the observed values of <inline-formula><mml:math id="inf25"><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> are unlikely to be the result of rapid serial rebinding of one pMHC with many TCR within a TCR cluster. We note that although TCR clusters are not readily visible at the low antigen densities in these experiments, low level TCR clustering has been reported in the resting state by other methods (<xref ref-type="bibr" rid="bib35">Schamel and Alarcon, 2013</xref>). Even with a very fast <italic>k</italic><sub><italic>on</italic></sub>, if pMHC completely disengages from TCR for long enough to diffuse to an adjacent TCR, then the probability of complete escape from the TCR cluster is high. Only in the extreme limit, where <italic>k</italic><sub><italic>on</italic></sub> is so fast that pMHC unbinding is predominantly followed by rebinding to the same TCR, is the escape time appreciably longer than the individual molecular dwell times. The distinction between rapidly rebinding the same TCR and a single engagement is largely semantic. However, it may reveal something about the mechanical stability of pMHC:TCR interactions, and could account for the apparently accelerated <italic>k</italic><sub><italic>off</italic></sub> observed in other types of experiments<bold>.</bold></p>
+               
             </sec>
         </sec>
     </body>
     <back>
         <ack id="ack">
             <title>Acknowledgements</title>
-            <p>The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. We thank David King of the HHMI Mass Spec Facility for peptide synthesis and Mass Spectroscopy, Nicole Fay, Kate Alfieri, and Niña Hartman for MHC purification, and Brian D Belardi for a critical reading of the manuscript.</p>
+            
         </ack>
         <sec sec-type="additional-information">
             <title>Additional information</title>
@@ -256,18 +216,7 @@
             </fn-group>
             <fn-group content-type="author-contribution">
                 <title>Author contributions</title>
-                <fn fn-type="con" id="con1">
-                    <p>GPO, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
-                </fn>
-                <fn fn-type="con" id="con2">
-                    <p>RMP, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article</p>
-                </fn>
-                <fn fn-type="con" id="con3">
-                    <p>AAS, Acquisition of data, Drafting or revising the article</p>
-                </fn>
-                <fn fn-type="con" id="con4">
-                    <p>JJL, Acquisition of data, Drafting or revising the article</p>
-                </fn>
+                
                 <fn fn-type="con" id="con5">
                     <p>JTG, Conception and design, Analysis and interpretation of data, Drafting or revising the article</p>
                 </fn>
@@ -288,26 +237,7 @@
                             <surname>Adams</surname>
                             <given-names>JJ</given-names>
                         </name>
-                        <name>
-                            <surname>Narayanan</surname>
-                            <given-names>S</given-names>
-                        </name>
-                        <name>
-                            <surname>Liu</surname>
-                            <given-names>B</given-names>
-                        </name>
-                        <name>
-                            <surname>Birnbaum</surname>
-                            <given-names>ME</given-names>
-                        </name>
-                        <name>
-                            <surname>Kruse</surname>
-                            <given-names>AC</given-names>
-                        </name>
-                        <name>
-                            <surname>Bowerman</surname>
-                            <given-names>NA</given-names>
-                        </name>
+                       
                         <etal />
                     </person-group>
                     <year>2011</year>

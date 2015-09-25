@@ -28,21 +28,29 @@ var qs = function () {
 // This document gets loaded by default
 // --------
 
-var documentURL = "data/example.xml";
-
+/*
+var documentURL = "data/template_table.xml";
+var submission_file ='{{=request.args[0]}}';
 $(function() {
-
-  // Create a new Lens app instance
-  // --------
-  //
-  // Injects itself into body
-
-  var app = new window.Lens({
-    document_url: qs.url ? decodeURIComponent(qs.url) : documentURL
+    var app;
+    app = new window.Lens({
+        document_url: qs.url ? decodeURIComponent(qs.url) : documentURL
   });
-
   app.start();
-
   window.app = app;
+*/
 
+
+var url = window.location.href;
+var url_sp = url.split('/');
+var protocol = url_sp[0];
+var server= url_sp[2];
+
+var documentURL = protocol+'//'+server+'/static/monographs/'+submission_id+'/submission/proof/'+submission_file;
+$(function() {
+    var app = new window.Lens({
+        document_url: qs.url ? decodeURIComponent(qs.url) : documentURL
+    });
+    app.start();
+    window.app = app;
 });
