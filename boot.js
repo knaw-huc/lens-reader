@@ -31,6 +31,7 @@ var url_sp = url.split('/');
 var protocol = url_sp[0];
 var server= url_sp[2];
 
+
 var documentURL = protocol+'//'+server+'/static/monographs/'+submission_id+'/submission/proof/'+submission_file;
 $(function() {
     var app = new window.Lens({

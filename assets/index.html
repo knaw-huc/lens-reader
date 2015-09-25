@@ -36,13 +36,15 @@
         //web2py variables
         var submission_id = '{{=request.args[0]}}';
         var submission_file = '{{=request.args[1]}}';
-        //JSON Model for languages.
-        var locales= require("{{=URL('static','js/lens-locale.json')}}");
-        console.log(locales);
-
-
     </script>
+    {{if session.forced_language =='de': }}
+    <script src="{{=URL('static','js/lens-locales-de.js')}}"></script>
+    {{elif session.forced_language =='en': }}
+    <script src="{{=URL('static','js/lens-locales-en.js')}}"></script>
+    {{pass}}
+
     <script src="{{=URL('static','js/lens2.js')}}"></script>
+
 </head>
 <body class="loading">
 
