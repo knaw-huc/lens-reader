@@ -1,18 +1,16 @@
 <!DOCTYPE html>
-<html>
-<head>
+<html xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <head>
     <title>eLife Lens</title>
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic' rel='stylesheet'
-          type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic' rel='stylesheet' type='text/css'>
+    
+    <link rel="stylesheet" type="text/css" media="all" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
 
-    <link rel="stylesheet" type="text/css" media="all"
-          href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"/>
-
-    <!-- A combined lens.css will be generated in the bundling process -->
+    <!-- A combined lens.css will be generated in the bundling process --> 
     <!-- While in development, separate links for each CSS file are added, so we don't need a source map -->
-    <link rel="stylesheet" href="{{=URL('static','css/lens.css')}}"/>
-    <script src="{{=URL('static','js/jquery.js')}}"></script>
+    <link href='lens.css' rel='stylesheet' type='text/css'/>
 
+    <script src="lib/jquery.min.js"></script>
 
     <!-- MathJax Configuration -->
     <script type="text/x-mathjax-config">
@@ -27,23 +25,12 @@
          "displayAlign": "left",
          styles: {".MathJax_Display": {padding: "0em 0em 0em 3em" },".MathJax_SVG_Display": {padding: "0em 0em 0em 3em" },}
       });
-
     </script>
-    <script type="text/javascript"
-            src="http://beta.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML-full"></script>
-    <script type="text/javascript">
-        //web2py variables
-        var submission_id = '{{=request.args[0]}}';
-        var submission_file = '{{=request.args[1]}}';
-        //JSON Model for languages.
+    <script type="text/javascript" src="http://beta.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML-full"></script>
 
+    <script src='lens.js'></script>
+  </head>
+  <body class="loading">
 
-    </script>
-    <script src="{{=URL('static','js/lens2.js')}}"></script>
-</head>
-<body class="loading">
-
-</body>
+  </body>
 </html>
-{{db.t_usage_statistics.insert()}}
-{{db.commit()}}
