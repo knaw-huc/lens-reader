@@ -211,6 +211,7 @@
                 <title>Characterization of agonist pMHC:TCR complexes</title>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <my_raptor img_path="https://placehold.it/350x150" short_description="Raptor!">asdasdsad</my_raptor>
                 <P><xref ref-type="fig" rid="raptor_1">Raptor</xref>)</P>
                
@@ -234,6 +235,8 @@
                     
                 </p>
 =======
+=======
+>>>>>>> parent of f4b8fa2... [info] added quotation support
 =======
 >>>>>>> parent of f4b8fa2... [info] added quotation support
                 <p>We probe agonist pMHC:TCR complex dynamics in hybrid live cell—supported membrane junctions(<xref ref-type="bibr" rid="bib14">Grakoui et al., 1999</xref>) (<xref ref-type="fig" rid="fig1">Figure 1A</xref>). The supported membrane is functionalized with MHC (IE<sup>k</sup>) and intercellular adhesion molecule-1 fusion with a blue fluorescent protein (ICAM1-TagBFP), both linked to the membrane via C-terminal poly-His tag binding to Ni-chelating lipids (<xref ref-type="bibr" rid="bib30">Nye and Groves, 2008</xref>). The MHC is loaded with peptide (moth cytochrome c [MCC] agonist or null), which is covalently coupled in a 1:1 stoichiometry (verified by HPLC) to the photostable fluorophores Atto647N or Atto488 using maleimide-thiol chemistry. Upon contact between the T cell and the supported membrane, Leukocyte function-associated antigen 1 (LFA1)-ICAM1 binding leads to rapid cell spreading and formation of an essentially planar interface between the T cell and supported membrane, within which pMHC:TCR interactions occur.<fig id="fig1" position="float"><object-id pub-id-type="doi">10.7554/eLife.00778.003</object-id><label>Figure 1.</label><caption><title>Agonist pMHC binding to TCR in T cells is revealed by changes in mobility.</title><p>(<bold>A</bold>) Schematic of the hybrid live cell–SLB system. Binding of agonist pMHC to TCR (PDB, 3QIU) leads to phosphorylation of ITAMs, on the intracellular domain of the TCR, which is followed by recruitment of the kinase ZAP70 (PDB, 2OQI, 2OZO). We directly observe both pMHC:TCR binding and ZAP70:ITAM recruitment using single molecule fluorescence microscopy (bilayer adapted from <xref ref-type="bibr" rid="bib10">Domanski et al., 2010</xref>). (<bold>B</bold>) At short exposure times (17.5 ms, left) all agonist pMHC molecules are readily resolved. Imaging with a long exposure time (500 ms, right) allows for unambiguous discrimination between the slow, TCR-bound fraction of agonist pMHC and the fast diffusing fraction. This also allows for long (1–10 s interval) time-lapse sequences (<xref ref-type="other" rid="video1">Video 1</xref>). Automated detection of single molecule features (red circles) is discussed in methods. (<bold>C</bold>) Representative intensity trace showing a single agonist pMHC molecule, identified by step photobleaching, bound continuously for ∼60 s. (<bold>D</bold>) Step size histogram of single agonist pMHC molecules in a SLB is bimodal under T cells (red) and unimodal before addition of T cells (blue). pMHC molecules in (<bold>B</bold>)–(<bold>D</bold>) were labeled with Atto647N on the MCC peptide.</p><p><bold>DOI:</bold><ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00778.003">http://dx.doi.org/10.7554/eLife.00778.003</ext-link></p></caption><graphic xlink:href="elife00778f001" /></fig></p>
