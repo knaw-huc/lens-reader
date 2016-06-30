@@ -25,6 +25,21 @@ var qs = function () {
   return query_string;
 } ();
 
+// This document gets loaded by default
+// --------
+
+/*
+var documentURL = "data/template_table.xml";
+var submission_file ='{{=request.args[0]}}';
+$(function() {
+    var app;
+    app = new window.Lens({
+        document_url: qs.url ? decodeURIComponent(qs.url) : documentURL
+  });
+  app.start();
+  window.app = app;
+*/
+
 
 var url = window.location.href;
 var url_sp = url.split('/');
