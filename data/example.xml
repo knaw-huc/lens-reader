@@ -11,7 +11,7 @@
         </journal-meta>
         <article-meta>
             <article-id pub-id-type="publisher-id">00778</article-id>
-            <article-id pub-id-type="doi">10.7554/eLife.00778</article-id>
+            <article-id pub-id-type="doi">10.77777.123456</article-id>
             <article-categories>
                 <subj-group subj-group-type="display-channel">
                     <subject>Research article</subject>
@@ -21,8 +21,7 @@
                 </subj-group>
             </article-categories>
             <title-group>
-                <article-title>Direct single molecule measurement of TCR triggering by agonist pMHC
-                    in living primary T cells</article-title>
+                <article-title>Title</article-title>
             </title-group>
             <contrib-group>
 
@@ -35,7 +34,6 @@
                         <given-names>Jay T</given-names>
                     </name>
                     <xref ref-type="aff" rid="aff1"/>
-                    <xref ref-type="aff" rid="aff2"/>
                     <xref ref-type="corresp" rid="cor1">*</xref>
                     <xref ref-type="other" rid="par-1"/>
                     <xref ref-type="fn" rid="con5"/>
@@ -47,18 +45,7 @@
                         Berkeley</institution>, <addr-line><named-content content-type="city"
                             >Berkeley</named-content></addr-line>, <country>United
                     States</country></aff>
-                <aff id="aff2">
-                    <institution content-type="dept">Physical Biosciences Division</institution>,
-                        <institution>Lawrence Berkeley National Laboratory, University of
-                        California, Berkeley</institution>, <addr-line><named-content
-                            content-type="city">Berkeley</named-content></addr-line>,
-                        <country>United States</country></aff>
-                <aff id="aff3">
-                    <institution content-type="dept">Department of Molecular and Cell
-                        Biology</institution>, <institution>University of California,
-                        Berkeley</institution>, <addr-line><named-content content-type="city"
-                            >Berkeley</named-content></addr-line>, <country>United
-                    States</country></aff>
+
             </contrib-group>
             <contrib-group content-type="section">
                 <contrib contrib-type="editor">
@@ -113,24 +100,11 @@
             </permissions>
             <self-uri content-type="pdf" xlink:href="elife00778.pdf"/>
             <abstract>
-                <p>T cells discriminate between self and foreign antigenic peptides, displayed on
-                    antigen presenting cell surfaces, via the TCR. While the molecular interactions
-                    between TCR and its ligands are well characterized in vitro, quantitative
-                    measurements of these interactions in living cells are required to accurately
-                    resolve the physical mechanisms of TCR signaling. We report direct single
-                    molecule measurements of TCR triggering by agonist pMHC in hybrid junctions
-                    between live primary T cells and supported lipid membranes. Every pMHC:TCR
-                    complex over the entire cell is tracked while simultaneously monitoring the
-                    local membrane recruitment of ZAP70, as a readout of TCR triggering. Mean dwell
-                    times for pMHC:TCR molecular binding of 5 and 54 s were measured for two
-                    different pMHC:TCR systems. Single molecule measurements of the pMHC:TCR:ZAP70
-                    complex indicate that TCR triggering is stoichiometric with agonist pMHC in a
-                    1:1 ratio. Thus any signal amplification must occur downstream of TCR
-                    triggering.</p>
+                <p>Abstract text</p>
                 <p>
                     <bold>DOI:</bold>
-                    <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00778.001"
-                        >http://dx.doi.org/10.7554/eLife.00778.001</ext-link>
+                    <ext-link ext-link-type="doi" xlink:href="10.77777.123456.001"
+                        >http://dx.doi.org/10.77777.123456.001</ext-link>
                 </p>
             </abstract>
             <kwd-group kwd-group-type="author-keywords">
@@ -191,62 +165,27 @@
         </article-meta>
     </front>
     <body>
-        <sec id="s2" sec-type="results">
-            <title>Results</title>
+
+        <sec id="sec1" sec-type="results">
+            <title>Titel level 1</title>
             <sec id="s2-1">
-                <title>Characterization of agonist pMHC:TCR complexes</title>
-                <p>We probe agonist pMHC:TCR complex dynamics in hybrid live cell—supported membrane
-                    junctions() (<xref ref-type="fig" rid="fig1">Figure 1A</xref>). The supported
-                    membrane is functionalized with MHC (IE<sup>k</sup>) and intercellular adhesion
-                    molecule-1 fusion with a blue fluorescent protein (ICAM1-TagBFP), both linked to
-                    the membrane via C-terminal poly-His tag binding to Ni-chelating lipids (). The
-                    MHC is loaded with peptide (moth cytochrome c [MCC] agonist or null), which is
-                    covalently coupled in a 1:1 stoichiometry (verified by HPLC) to the photostable
-                    fluorophores Atto647N or Atto488 using maleimide-thiol chemistry. Upon contact
-                    between the T cell and the supported membrane, Leukocyte function-associated
-                    antigen 1 (LFA1)-ICAM1 binding leads to rapid cell spreading and formation of an
-                    essentially planar interface between the T cell and supported membrane, within
-                    which pMHC:TCR interactions occur.<fig id="fig1" position="float">
-                        <object-id pub-id-type="doi">10.7554/eLife.00778.003</object-id>
-                        <label>Figure 1.</label>
-                        <caption>
-                            <title>Agonist pMHC binding to TCR in T cells is revealed by changes in
-                                mobility.</title>
-                            <p>(<bold>A</bold>) Schematic of the hybrid live cell–SLB system.
-                                Binding of agonist pMHC to TCR (PDB, 3QIU) leads to phosphorylation
-                                of ITAMs, on the intracellular domain of the TCR, which is followed
-                                by recruitment of the kinase ZAP70 (PDB, 2OQI, 2OZO). We directly
-                                observe both pMHC:TCR binding and ZAP70:ITAM recruitment using
-                                single molecule fluorescence microscopy (bilayer adapted from ).
-                                    (<bold>B</bold>) At short exposure times (17.5 ms, left) all
-                                agonist pMHC molecules are readily resolved. Imaging with a long
-                                exposure time (500 ms, right) allows for unambiguous discrimination
-                                between the slow, TCR-bound fraction of agonist pMHC and the fast
-                                diffusing fraction. This also allows for long (1–10 s interval)
-                                time-lapse sequences (). Automated detection of single molecule
-                                features (red circles) is discussed in methods. (<bold>C</bold>)
-                                Representative intensity trace showing a single agonist pMHC
-                                molecule, identified by step photobleaching, bound continuously for
-                                ∼60 s. (<bold>D</bold>) Step size histogram of single agonist pMHC
-                                molecules in a SLB is bimodal under T cells (red) and unimodal
-                                before addition of T cells (blue). pMHC molecules in
-                                    (<bold>B</bold>)–(<bold>D</bold>) were labeled with Atto647N on
-                                the MCC peptide.</p>
-                            <p><bold>DOI:</bold><ext-link ext-link-type="doi"
-                                    xlink:href="10.7554/eLife.00778.003"
-                                    >http://dx.doi.org/10.7554/eLife.00778.003</ext-link></p>
-                        </caption>
-                        <graphic xlink:href="elife00778f001"/>
-                    </fig></p>
+                <title>Title level 2</title>
+
+
+                <p>Paragraph</p>
+
+                <!--  this is a latex math element -->
+                <disp-formula content-type="math/tex">
+                    <tex-math>|h| \leqslant \frac {H}{2H^2+c-\max _\Sigma K_e}.</tex-math>
+                </disp-formula>
 
 
 
             </sec>
             <sec id="s2-4">
-                <title>Stochastic reaction-diffusion simulations</title>
-                <p>We quantitatively assess the possibility of serial rebinding of agonist pMHC to
-                    multiple TCR within a TCR cluster using a stochastic reaction-diffusion
-                    simulation over a large range of <inline-formula><mml:math id="inf15">
+                <title>Titel level 2</title>
+                <p>Inline Formular begin <!-- math mal intergration -->
+                    <inline-formula><mml:math id="inf15">
                             <mml:mrow>
                                 <mml:mrow>
                                     <mml:mo>〈</mml:mo>
@@ -259,9 +198,8 @@
                                     <mml:mo>〉</mml:mo>
                                 </mml:mrow>
                             </mml:mrow>
-                        </mml:math></inline-formula> and TCR cluster size. The total time to escape
-                    for an individual molecule, which is the parameter directly measured in pMHC
-                    tracking experiments, is given by:<disp-formula id="equ2"><mml:math id="m2">
+                        </mml:math></inline-formula> Inline Formular end <disp-formula id="equ2"
+                            ><mml:math id="m2">
                             <mml:mrow>
                                 <mml:msub>
                                     <mml:mi>τ</mml:mi>
@@ -377,10 +315,9 @@
                                 </mml:msub>
                             </mml:mrow>
                         </mml:math></inline-formula> for TCR clusters of the sizes observed
-                    experimentally () (≤100 TCR molecules) (<xref ref-type="fig" rid="fig6">Figure
-                        6</xref>). Only for unrealistically large TCR clusters (∼1000 TCR molecules)
-                    could rebinding within the same cluster lead to appreciable entrapment
-                            <inline-formula><mml:math id="inf22">
+                    experimentally () (≤100 TCR molecules) . Only for unrealistically large TCR
+                    clusters (∼1000 TCR molecules) could rebinding within the same cluster lead to
+                    appreciable entrapment <inline-formula><mml:math id="inf22">
                             <mml:mrow>
                                 <mml:mrow>
                                     <mml:mo>(</mml:mo>
@@ -400,45 +337,9 @@
                             </mml:mrow>
                         </mml:math></inline-formula> (<xref ref-type="fig" rid="fig6s1">Figure
                         6—figure supplement 1</xref>).<fig-group>
-                        <fig id="fig6" position="float">
-                            <object-id pub-id-type="doi">10.7554/eLife.00778.013</object-id>
-                            <label>Figure 6.</label>
-                            <caption>
-                                <title>Stochastic reaction-diffusion simulation of time before MCC
-                                    agonist pMHC escape from TCR clusters,
-                                            <italic>τ</italic><sub><italic>esc</italic></sub> (in
-                                    color; log scale), as a function of
-                                            <italic>τ</italic><sub><italic>off</italic></sub> and
-                                    TCR cluster size.</title>
-                                <p>For small TCR clusters (1–100 TCR molecules)
-                                            <italic>τ</italic><sub><italic>off</italic></sub> ≈
-                                        <italic>τ</italic><sub><italic>esc</italic></sub>,
-                                    indicating no serial rebinding. Only for unrealistically large
-                                    TCR clusters (1000–10,000 molecules) does
-                                            <inline-formula><mml:math id="inf23">
-                                            <mml:mrow>
-                                                <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">esc</mml:mi>
-                                                </mml:msub>
-                                            </mml:mrow>
-                                        </mml:math></inline-formula> become appreciably longer than
-                                            <inline-formula><mml:math id="inf24">
-                                            <mml:mrow>
-                                                <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">off</mml:mi>
-                                                </mml:msub>
-                                            </mml:mrow>
-                                        </mml:math></inline-formula>.</p>
-                                <p><bold>DOI:</bold><ext-link ext-link-type="doi"
-                                        xlink:href="10.7554/eLife.00778.013"
-                                        >http://dx.doi.org/10.7554/eLife.00778.013</ext-link></p>
-                            </caption>
-                            <graphic xlink:href="elife00778f006"/>
-                        </fig>
+
                         <fig id="fig6s1" position="float" specific-use="child-fig">
-                            <object-id pub-id-type="doi">10.7554/eLife.00778.014</object-id>
+                            <object-id pub-id-type="doi">10.77777.123456.014</object-id>
                             <label>Figure 6—figure supplement 1.</label>
                             <caption>
                                 <title>Stochastic reaction-diffusion simulation of time before MCC
@@ -523,47 +424,71 @@
                                     millisecond-scale unbinding and rebinding is unlikely to result
                                     in the minute-scale dwell times observed in our experiments.</p>
                                 <p><bold>DOI:</bold><ext-link ext-link-type="doi"
-                                        xlink:href="10.7554/eLife.00778.014"
-                                        >http://dx.doi.org/10.7554/eLife.00778.014</ext-link></p>
+                                        xlink:href="10.77777.123456.014"
+                                        >http://dx.doi.org/10.77777.123456.014</ext-link></p>
                             </caption>
                             <graphic xlink:href="elife00778fs003"/>
                         </fig>
                     </fig-group></p>
-                <p>These simulations indicate that the observed values of <inline-formula><mml:math
-                            id="inf25">
-                            <mml:mrow>
-                                <mml:msub>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">off</mml:mi>
-                                </mml:msub>
-                            </mml:mrow>
-                        </mml:math></inline-formula> are unlikely to be the result of rapid serial
-                    rebinding of one pMHC with many TCR within a TCR cluster. We note that although
-                    TCR clusters are not readily visible at the low antigen densities in these
-                    experiments, low level TCR clustering has been reported in the resting state by
-                    other methods (). Even with a very fast
-                            <italic>k</italic><sub><italic>on</italic></sub>, if pMHC completely
-                    disengages from TCR for long enough to diffuse to an adjacent TCR, then the
-                    probability of complete escape from the TCR cluster is high. Only in the extreme
-                    limit, where <italic>k</italic><sub><italic>on</italic></sub> is so fast that
-                    pMHC unbinding is predominantly followed by rebinding to the same TCR, is the
-                    escape time appreciably longer than the individual molecular dwell times. The
-                    distinction between rapidly rebinding the same TCR and a single engagement is
-                    largely semantic. However, it may reveal something about the mechanical
-                    stability of pMHC:TCR interactions, and could account for the apparently
-                    accelerated <italic>k</italic><sub><italic>off</italic></sub> observed in other
-                    types of experiments<bold>.</bold></p>
+
+            </sec>
+
+        </sec>
+        <sec>
+            <title> Struktur </title>
+            <p>x1</p>
+            <sec>
+                <title> title 1 </title>
+                <p>x1</p>
+                <sec>
+                    <title> title 2 </title>
+                    <p>x2</p>
+                    <sec>
+                        <title> title 3</title>
+                        <p>x3</p>
+                        <sec>
+                            <title> title 4</title>
+                            <p>x4</p>
+                            <sec>
+                                <title> title 5 </title>
+                                <p>x5</p>
+                                <sec>
+                                    <title> title 6 </title>
+                                    <p>x6</p>
+                                    <sec>
+                                        <title> title 7</title>
+                                        <p>x7</p>
+                                        <sec>
+                                            <title> title 8</title>
+                                            <p>x8</p>
+                                            <p>
+                                                <speech id="s1">
+                                                  <speaker>Paul</speaker>
+                                                  <p> I sam text<italic>I am italic</italic></p>
+                                                </speech>
+                                            </p>
+                                            <p>
+                                                <speech id="s20">
+                                                  <speaker> Speaker</speaker>
+                                                  <p> I have a link &lt;L&gt;.<xref ref-type="fn"
+                                                  rid="bibd2e50">1</xref>
+                                                  </p>
+                                                </speech>
+                                            </p>
+                                        </sec>
+                                    </sec>
+                                </sec>
+                            </sec>
+                        </sec>
+                    </sec>
+                </sec>
             </sec>
         </sec>
     </body>
     <back>
         <ack id="ack">
-            <title>Acknowledgements</title>
-            <p>The content is solely the responsibility of the authors and does not necessarily
-                represent the official views of the National Institutes of Health. We thank David
-                King of the HHMI Mass Spec Facility for peptide synthesis and Mass Spectroscopy,
-                Nicole Fay, Kate Alfieri, and Niña Hartman for MHC purification, and Brian D Belardi
-                for a critical reading of the manuscript.</p>
+            <title>Acknowledgement</title>
+            <p> Ackonkowlegement test</p>
         </ack>
         <sec sec-type="additional-information">
             <title>Additional information</title>
@@ -605,6 +530,12 @@
                 </fn>
             </fn-group>
         </sec>
+        <fn-group>
+            <fn id="bibd2e50">
+                <p> For an explanation of the interview transcript abbreviations used throughout
+                    this work, see Appendix A.</p>
+            </fn>
+        </fn-group>
         <ref-list>
             <title>References</title>
             <ref id="bib1">
