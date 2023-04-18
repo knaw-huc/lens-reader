@@ -1,604 +1,1870 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
-<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN"
+        "JATS-journalpublishing1.dtd">
+<article article-type="research-article" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink">
     <front>
         <journal-meta>
-            <journal-id journal-id-type="publisher-id">Heidelberg University Publishing</journal-id>
-            <issn pub-type="epub">0000-000X</issn>
+            <journal-id journal-id-type="publisher-id">EMLC</journal-id>
+            <journal-title-group>
+                <journal-title>Early Modern Low Countries</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2543-1587</issn>
             <publisher>
-                <publisher-name>Heidelberg University Publishing</publisher-name>
+                <publisher-name>Stichting EMLC, supported by Utrecht University Library Open Access Journals
+                </publisher-name>
+                <publisher-loc>The Netherlands</publisher-loc>
             </publisher>
         </journal-meta>
         <article-meta>
-            <article-id pub-id-type="publisher-id">00778</article-id>
-            <article-id pub-id-type="doi">10.77777.123456</article-id>
+            <article-id pub-id-type="publisher-id">emlc.10908</article-id>
+            <article-id pub-id-type="doi">10.51750/emlc.10908</article-id>
             <article-categories>
-                <subj-group subj-group-type="display-channel">
-                    <subject>Research article</subject>
-                </subj-group>
                 <subj-group subj-group-type="heading">
-                    <subject>Biophysics and structural biology</subject>
+                    <subject>Article</subject>
                 </subj-group>
             </article-categories>
             <title-group>
-                <article-title>Title</article-title>
+                <article-title>Popular Song Topics in the Dutch Republic: A Data-Driven Study into Topical Fluctuations
+                    in the Dutch Song Database (1550-1750)
+                </article-title>
             </title-group>
             <contrib-group>
-
-
-
-
-                <contrib contrib-type="author" corresp="yes" id="author-4713">
+                <contrib contrib-type="author">
                     <name>
-                        <surname>Groves</surname>
-                        <given-names>Jay T</given-names>
+                        <surname>Lassche</surname>
+                        <given-names>Alie</given-names>
                     </name>
-                    <xref ref-type="aff" rid="aff1"/>
-                    <xref ref-type="corresp" rid="cor1">*</xref>
-                    <xref ref-type="other" rid="par-1"/>
-                    <xref ref-type="fn" rid="con5"/>
-                    <xref ref-type="fn" rid="conf1"/>
-                </contrib>
-                <aff id="aff1">
-                    <institution content-type="dept">Department of Chemistry</institution>,
-                        <institution>Howard Hughes Medical Institute, University of California,
-                        Berkeley</institution>, <addr-line><named-content content-type="city"
-                            >Berkeley</named-content></addr-line>, <country>United
-                    States</country></aff>
-
-            </contrib-group>
-            <contrib-group content-type="section">
-                <contrib contrib-type="editor">
-                    <name>
-                        <surname>Brunger</surname>
-                        <given-names>Axel T</given-names>
-                    </name>
-                    <role>Reviewing editor</role>
-                    <aff>
-                        <institution>Howard Hughes Medical Institute, Stanford
-                            University</institution>, <country>United States</country></aff>
+                    <bio>
+                        <p>
+                            <bold>Alie Lassche</bold>
+                            is a PhD candidate in Dutch History at Leiden University within the project &#x2018;Chronicling
+                            Novelty. New knowledge in the Netherlands, 1500-1850&#x2019;. She investigates the changing
+                            mediascape of Dutch chroniclers, using both qualitative and quantitative methods to analyse
+                            a corpus of about three hundred early modern Dutch chronicles. In 2019, she was awarded her
+                            research master&#x2019;s degree in Dutch literature and culture at Utrecht University with
+                            distinction. In her research, she applies computational methods to historical text corpora,
+                            in order to investigate cultural changes over time.
+                        </p>
+                    </bio>
                 </contrib>
             </contrib-group>
-            <author-notes>
-                <corresp id="cor1">
-                    <label>*</label>For correspondence: <email>JTGroves@lbl.gov</email></corresp>
-                <fn fn-type="con" id="equal-contrib">
-                    <label>†</label>
-                    <p>These authors contributed equally to this work</p>
-                </fn>
-            </author-notes>
-
-            <pub-date pub-type="collection">
-                <year>2013</year>
+            <pub-date pub-type="epub">
+                <month>12</month>
+                <year>2022</year>
             </pub-date>
-            <volume>2</volume>
-            <elocation-id>e00778</elocation-id>
-            <history>
-                <date date-type="received">
-                    <day>26</day>
-                    <month>03</month>
-                    <year>2013</year>
-                </date>
-                <date date-type="accepted">
-                    <day>17</day>
-                    <month>05</month>
-                    <year>2013</year>
-                </date>
-            </history>
+            <volume>6</volume>
+            <issue>2</issue>
+            <fpage>253</fpage>
+            <lpage>277</lpage>
             <permissions>
-                <copyright-statement>© 2013, O'Donoghue et al</copyright-statement>
-                <copyright-year>2013</copyright-year>
-                <copyright-holder>O'Donoghue et al</copyright-holder>
-                <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
-                    <license-p>This article is distributed under the terms of the <ext-link
-                            ext-link-type="uri"
-                            xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative
-                            Commons Attribution License</ext-link>, which permits unrestricted use
-                        and redistribution provided that the original author and source are
-                        credited.</license-p>
+                <copyright-statement>Copyright: copyright is retained by the authors</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access">
+                    <license-p>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0
+                        International License.
+                    </license-p>
                 </license>
             </permissions>
-            <self-uri content-type="pdf" xlink:href="elife00778.pdf"/>
+            <self-uri xlink:href="https://www.emlc-journal.org/articles/10.51750/emlc.10908"/>
             <abstract>
-                <p>Abstract text</p>
-                <p>
-                    <bold>DOI:</bold>
-                    <ext-link ext-link-type="doi" xlink:href="10.77777.123456.001"
-                        >http://dx.doi.org/10.77777.123456.001</ext-link>
+                <p>This article investigates popular topics and topical fluctuations in a diachronic corpus of 43,772
+                    Dutch songs, all written between 1550 and 1750, contained within the Dutch Song Database.
+                    Computational methods such as topic modelling are used to analyse the relationship between topical
+                    changes and cultural-historical developments. Two cultural trends are used as case studies: the role
+                    of Petrarchism, and the articulation of a patriotic identity in early modern Dutch song culture.
+                    Furthermore, this data-driven approach reveals how subcategories can be defined within the existing
+                    but incomplete genre classification in the song collection. The results obtained contribute to a
+                    better understanding of the richness of the Dutch Song Database, and will facilitate the use of the
+                    song collection by future users.
                 </p>
             </abstract>
-            <kwd-group kwd-group-type="author-keywords">
-                <title>Author keywords</title>
-                <kwd>TCR triggering</kwd>
-                <kwd>single molecule kinetics</kwd>
-                <kwd>T cells</kwd>
+            <kwd-group>
+                <title>Keywords</title>
+                <kwd>song culture</kwd>
+                <kwd>topic modelling</kwd>
+                <kwd>topical fluctuations</kwd>
+                <kwd>text mining</kwd>
+                <kwd>digital humanities</kwd>
             </kwd-group>
-            <kwd-group kwd-group-type="research-organism">
-                <title>Research organism</title>
-                <kwd>Mouse</kwd>
-            </kwd-group>
-            <funding-group>
-                <award-group id="par-1">
-                    <funding-source> Funding source </funding-source>
-                    <award-id>PO1 AI091580</award-id>
-                    <principal-award-recipient>
-                        <name>
-                            <surname>O'Donoghue</surname>
-                            <given-names>Geoff P</given-names>
-                        </name>
-                        <name>
-                            <surname>Pielak</surname>
-                            <given-names>Rafal M</given-names>
-                        </name>
-                        <name>
-                            <surname>Smoligovets</surname>
-                            <given-names>Alexander A</given-names>
-                        </name>
-                        <name>
-                            <surname>Lin</surname>
-                            <given-names>Jenny J</given-names>
-                        </name>
-                        <name>
-                            <surname>Groves</surname>
-                            <given-names>Jay T</given-names>
-                        </name>
-                    </principal-award-recipient>
-                </award-group>
-                <funding-statement>The funders had no role in study design, data collection and
-                    interpretation, or the decision to submit the work for
-                    publication.</funding-statement>
-            </funding-group>
-            <custom-meta-group>
-                <custom-meta>
-                    <meta-name>elife-xml-version</meta-name>
-                    <meta-value>2</meta-value>
-                </custom-meta>
-                <custom-meta specific-use="meta-only">
-                    <meta-name>Author impact statement</meta-name>
-                    <meta-value>Quantitative observations of single-molecule binding between antigen
-                        and T cell receptor (TCR) in living primary T cells reveals unbinding
-                        kinetics, stoichiometry and signaling molecule recruitment, providing
-                        insights into the mechanisms of antigen recognition by the immune
-                        system.</meta-value>
-                </custom-meta>
-            </custom-meta-group>
         </article-meta>
     </front>
     <body>
-
-        <sec id="sec1" sec-type="results">
-            <title>Titel level 1</title>
-            <sec id="s2-1">
-                <title>Title level 2</title>
-
-
-                <p>Paragraph</p>
-
-                <!--  this is a latex math element -->
-                <disp-formula content-type="math/tex">
-                    <tex-math>|h| \leqslant \frac {H}{2H^2+c-\max _\Sigma K_e}.</tex-math>
-                </disp-formula>
-
-
-
-            </sec>
-            <sec id="s2-4">
-                <title>Titel level 2</title>
-                <p>Inline Formular begin <!-- math mal intergration -->
-                    <inline-formula><mml:math id="inf15">
-                            <mml:mrow>
-                                <mml:mrow>
-                                    <mml:mo>〈</mml:mo>
-                                    <mml:mrow>
-                                        <mml:msub>
-                                            <mml:mi>τ</mml:mi>
-                                            <mml:mi mathvariant="italic">off</mml:mi>
-                                        </mml:msub>
-                                    </mml:mrow>
-                                    <mml:mo>〉</mml:mo>
-                                </mml:mrow>
-                            </mml:mrow>
-                        </mml:math></inline-formula> Inline Formular end <disp-formula id="equ2"
-                            ><mml:math id="m2">
-                            <mml:mrow>
-                                <mml:msub>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">esc</mml:mi>
-                                </mml:msub>
-                                <mml:mo>=</mml:mo>
-                                <mml:mstyle displaystyle="true">
-                                    <mml:munderover>
-                                        <mml:mo>∑</mml:mo>
-                                        <mml:mrow>
-                                            <mml:mi>i</mml:mi>
-                                            <mml:mo>=</mml:mo>
-                                            <mml:mn>0</mml:mn>
-                                        </mml:mrow>
-                                        <mml:mi>n</mml:mi>
-                                    </mml:munderover>
-                                    <mml:mrow>
-                                        <mml:msubsup>
-                                            <mml:mi>τ</mml:mi>
-                                            <mml:mi mathvariant="italic">off</mml:mi>
-                                            <mml:mi>i</mml:mi>
-                                        </mml:msubsup>
-                                    </mml:mrow>
-                                </mml:mstyle>
-                                <mml:mo>+</mml:mo>
-                                <mml:mstyle displaystyle="true">
-                                    <mml:munderover>
-                                        <mml:mo>∑</mml:mo>
-                                        <mml:mrow>
-                                            <mml:mi>i</mml:mi>
-                                            <mml:mo>=</mml:mo>
-                                            <mml:mn>1</mml:mn>
-                                        </mml:mrow>
-                                        <mml:mi>n</mml:mi>
-                                    </mml:munderover>
-                                    <mml:mrow>
-                                        <mml:msubsup>
-                                            <mml:mi>τ</mml:mi>
-                                            <mml:mi mathvariant="italic">on</mml:mi>
-                                            <mml:mi>i</mml:mi>
-                                        </mml:msubsup>
-                                    </mml:mrow>
-                                </mml:mstyle>
-                                <mml:mo>+</mml:mo>
-                                <mml:msub>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">exit</mml:mi>
-                                </mml:msub>
-                            </mml:mrow>
-                        </mml:math></disp-formula></p>
-                <p>In this representation, <inline-formula><mml:math id="inf16">
-                            <mml:mrow>
-                                <mml:msubsup>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">off</mml:mi>
-                                    <mml:mi>i</mml:mi>
-                                </mml:msubsup>
-                            </mml:mrow>
-                        </mml:math></inline-formula> and <inline-formula><mml:math id="inf17">
-                            <mml:mrow>
-                                <mml:msubsup>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">on</mml:mi>
-                                    <mml:mi>i</mml:mi>
-                                </mml:msubsup>
-                            </mml:mrow>
-                        </mml:math></inline-formula> are the individual dwell times in the bound and
-                    unbound configurations, <italic>n</italic> is the number of rebinding events,
-                    and <inline-formula><mml:math id="inf18">
-                            <mml:mrow>
-                                <mml:msub>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">exit</mml:mi>
-                                </mml:msub>
-                            </mml:mrow>
-                        </mml:math></inline-formula> is the duration of the final unbound period
-                    prior to ultimate escape. For the stochastic simulation,
-                            <inline-formula><mml:math id="inf19">
-                            <mml:mrow>
-                                <mml:msubsup>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">off</mml:mi>
-                                    <mml:mi>i</mml:mi>
-                                </mml:msubsup>
-                            </mml:mrow>
-                        </mml:math></inline-formula> and <inline-formula><mml:math id="inf20">
-                            <mml:mrow>
-                                <mml:msubsup>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">on</mml:mi>
-                                    <mml:mi>i</mml:mi>
-                                </mml:msubsup>
-                            </mml:mrow>
-                        </mml:math></inline-formula> are treated as random variables with
-                    exponential distributions defined by the in situ measured values of
-                        <italic>k</italic><sub><italic>off</italic></sub> and
-                            <italic>k</italic><sub><italic>on</italic></sub> for pMHC:TCR binding,
-                    respectively. If the pMHC diffuses out of the TCR cluster prior to rebinding, it
-                    has escaped. Otherwise, the pMHC rebinds and the cycle repeats. Using the
-                    fastest <italic>k</italic><sub><italic>on</italic></sub> (0.17
-                        µm<sup>2</sup>s<sup>−1</sup>molecule<sup>−1</sup>) observed in similar
-                    hybrid live cell-SLB systems () and the measured diffusion coefficient of pMHC
-                    in our supported membranes, we find that <inline-formula><mml:math id="inf21">
-                            <mml:mrow>
-                                <mml:msub>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">esc</mml:mi>
-                                </mml:msub>
-                                <mml:mo>≈</mml:mo>
-                                <mml:msub>
-                                    <mml:mi>τ</mml:mi>
-                                    <mml:mi mathvariant="italic">off</mml:mi>
-                                </mml:msub>
-                            </mml:mrow>
-                        </mml:math></inline-formula> for TCR clusters of the sizes observed
-                    experimentally () (≤100 TCR molecules) . Only for unrealistically large TCR
-                    clusters (∼1000 TCR molecules) could rebinding within the same cluster lead to
-                    appreciable entrapment <inline-formula><mml:math id="inf22">
-                            <mml:mrow>
-                                <mml:mrow>
-                                    <mml:mo>(</mml:mo>
-                                    <mml:mrow>
-                                        <mml:msub>
-                                            <mml:mi>τ</mml:mi>
-                                            <mml:mi mathvariant="italic">esc</mml:mi>
-                                        </mml:msub>
-                                        <mml:mo>&gt;</mml:mo>
-                                        <mml:msub>
-                                            <mml:mi>τ</mml:mi>
-                                            <mml:mi mathvariant="italic">exit</mml:mi>
-                                        </mml:msub>
-                                    </mml:mrow>
-                                    <mml:mo>)</mml:mo>
-                                </mml:mrow>
-                            </mml:mrow>
-                        </mml:math></inline-formula> (<xref ref-type="fig" rid="fig6s1">Figure
-                        6—figure supplement 1</xref>).<fig-group>
-
-                        <fig id="fig6s1" position="float" specific-use="child-fig">
-                            <object-id pub-id-type="doi">10.77777.123456.014</object-id>
-                            <label>Figure 6—figure supplement 1.</label>
-                            <caption>
-                                <title>Stochastic reaction-diffusion simulation of time before MCC
-                                    agonist pMHC escape from TCR clusters.</title>
-                                <p>Simulations of <inline-formula><mml:math id="inf56">
-                                            <mml:mrow>
-                                                <mml:mfrac>
-                                                  <mml:mrow>
-                                                  <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">esc</mml:mi>
-                                                  </mml:msub>
-                                                  </mml:mrow>
-                                                  <mml:mrow>
-                                                  <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">off</mml:mi>
-                                                  </mml:msub>
-                                                  </mml:mrow>
-                                                </mml:mfrac>
-                                            </mml:mrow>
-                                        </mml:math></inline-formula> as a function of TCR cluster
-                                    size, <inline-formula><mml:math id="inf57">
-                                            <mml:mrow>
-                                                <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">off</mml:mi>
-                                                </mml:msub>
-                                            </mml:mrow>
-                                        </mml:math></inline-formula> , and
-                                            <italic>k</italic><sub><italic>on</italic></sub>. The
-                                    ratio <inline-formula><mml:math id="inf58">
-                                            <mml:mrow>
-                                                <mml:mfrac>
-                                                  <mml:mrow>
-                                                  <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">esc</mml:mi>
-                                                  </mml:msub>
-                                                  </mml:mrow>
-                                                  <mml:mrow>
-                                                  <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">off</mml:mi>
-                                                  </mml:msub>
-                                                  </mml:mrow>
-                                                </mml:mfrac>
-                                            </mml:mrow>
-                                        </mml:math></inline-formula>, which is an indicator of
-                                    agonist pMHC entrapment, is a function of TCR cluster size and
-                                        <italic>k</italic><sub><italic>on</italic></sub>, but not
-                                        <italic>k</italic><sub><italic>off</italic></sub>.
-                                        <italic>k</italic><sub><italic>on</italic></sub> = 0.51
-                                        µm<sup>2</sup>s<sup>−1</sup>molecule<sup>−1</sup>
-                                    corresponds to the fastest average
-                                            <italic>k</italic><sub><italic>on</italic></sub> that
-                                    allows for rebinding to the same TCR. Only for unrealistically
-                                    large TCR cluster sizes (approaching 1000 TCRs per cluster) and
-                                    fast <italic>k</italic><sub><italic>on</italic></sub> is
-                                            <inline-formula><mml:math id="inf59">
-                                            <mml:mrow>
-                                                <mml:mfrac>
-                                                  <mml:mrow>
-                                                  <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mrow>
-                                                  <mml:mi mathvariant="italic">esc</mml:mi>
-                                                  </mml:mrow>
-                                                  </mml:msub>
-                                                  </mml:mrow>
-                                                  <mml:mrow>
-                                                  <mml:msub>
-                                                  <mml:mi>τ</mml:mi>
-                                                  <mml:mi mathvariant="italic">off</mml:mi>
-                                                  </mml:msub>
-                                                  </mml:mrow>
-                                                </mml:mfrac>
-                                                <mml:mo>≫</mml:mo>
-                                                <mml:mn>1</mml:mn>
-                                            </mml:mrow>
-                                        </mml:math></inline-formula>, meaning that entrapment due to
-                                    millisecond-scale unbinding and rebinding is unlikely to result
-                                    in the minute-scale dwell times observed in our experiments.</p>
-                                <p><bold>DOI:</bold><ext-link ext-link-type="doi"
-                                        xlink:href="10.77777.123456.014"
-                                        >http://dx.doi.org/10.77777.123456.014</ext-link></p>
-                            </caption>
-                            <graphic xlink:href="elife00778fs003"/>
-                        </fig>
-                    </fig-group></p>
-
-            </sec>
-
+        <p>During the early modern period, the tradition of the monodic song in the vernacular remained extremely strong
+            in the Dutch Republic. Tens of thousands of Dutch songs were written, published, read, and, obviously, sung.
+            Young and old, rich and poor alike, were engaged in song culture, which was, according to Louis Peter Grijp,
+            as typically Dutch as the culture of painting.
+            <xref ref-type="fn" rid="fn1">
+                <sup>1</sup>
+            </xref>
+            According to Natascha Veldhorst, singing was second nature to the Dutch: everyone sang anywhere and at any
+            time.
+            <xref ref-type="fn" rid="fn2">
+                <sup>2</sup>
+            </xref>
+            Traces of this practice can be found not only in contemporary paintings, but also in archives and libraries,
+            where hundreds of early modern Dutch songbooks are still kept. The singing tradition flourished especially
+            in the seventeenth century. Previous studies have already shown that singing was a social business in the
+            early modern Low Countries; people usually sang together and children were taught to sing in school. Singing
+            and music lessons had been a common part of the curriculum from the sixteenth century, as <italic>musica
+            </italic> was considered one of the <italic>artes liberales</italic>. Even those who could not read music
+            were able to take part: the use of the contrafactum (writing new lyrics on existing melodies) made it
+            possible for such singers to learn new songs anyway.
+            <xref ref-type="fn" rid="fn3">
+                <sup>3</sup>
+            </xref>
+        </p>
+        <p>But what did people sing about during early modern times? And what changes in song topics can we observe over
+            a long period of time? For decades, literary scholars have published studies on historical songs, their
+            topics, the public, and their function in society. Eddy Grootes, for instance, has analysed the rise in
+            popularity of certain songbooks for youngsters in the first quarter of the seventeenth century.
+            <xref ref-type="fn" rid="fn4">
+                <sup>4</sup>
+            </xref>
+            Els Stronks has researched early modern songs written by and for youngsters, demonstrating how songs played
+            a role in the identity formation of the early modern Dutch youth.
+            <xref ref-type="fn" rid="fn5">
+                <sup>5</sup>
+            </xref>
+            Furthermore, she has argued how songs were used to transmit knowledge.
+            <xref ref-type="fn" rid="fn6">
+                <sup>6</sup>
+            </xref>
+            The most famous Dutch song from the early modern period was chosen to be the national anthem of the
+            Netherlands in 1932. This song &#x2013; the <italic>Wilhelmus</italic> &#x2013; is without doubt the most
+            researched song in Dutch history, not least because the identity of its composer was shrouded in mystery for
+            many years. This mystery was finally solved in 2017 through stylometrics, in the notable study <italic>Van
+                wie is het Wilhelmus?
+            </italic> (&#x2018;Who wrote the <italic>Wilhelmus</italic>?&#x2019;).
+            <xref ref-type="fn" rid="fn7">
+                <sup>7</sup>
+            </xref>
+        </p>
+        <p>Although many authors have studied the topics of early modern songs, their research was always based on case
+            studies. Using such methodology does not enable the researcher to search for patterns that occur over a
+            longer period of time. Quantitative studies on early modern songs are in fact scarce, and this scarcity is
+            closely related to the supposed lack of data, a problem already observed by Veldhorst. In her work on Dutch
+            early modern songbooks, she noted that it was hard to come up with specific numbers regarding early modern
+            song production. In the first place, there is no overview of those early modern songbooks currently held in
+            European libraries. Secondly, one has to keep in mind that songbooks were heavily modified, expanded, and
+            revised over the course of time. Thirdly, the small survival chances of the songbook further complicate any
+            attempt at estimating the number of songs that were printed at the time.
+            <xref ref-type="fn" rid="fn8">
+                <sup>8</sup>
+            </xref>
+            And if there are two things you need in order to perform quantitative research, it is numbers and data.
+        </p>
+        <p>While we may lack comprehensive data sets on early modern Dutch songs, that does not mean we have no
+            representative data at all. In the early nineties, the musicologist Louis Grijp undertook an impressive and
+            successful attempt to map Dutch early modern song culture. In his 1991 dissertation he reconstructed the
+            melodies of songs by finding their sources and analysing their reception. One of the results of his
+            extensive work was the birth of the so-called <italic>voetenbank</italic>, an electronic database containing
+            data on melodies, verses, and stanzas of (at the time) 5,700 Dutch historical songs.
+            <xref ref-type="fn" rid="fn9">
+                <sup>9</sup>
+            </xref>
+            Almost thirty years after Grijp&#x2019;s dissertation, his database has developed into an extensive Dutch
+            Song Database, containing metadata of more than 175,000 Dutch songs. Furthermore, in the last couple of
+            decades the techniques for digital exploration of a corpus have become more advanced. This article shows how
+            making full use of these new techniques can allow for meaningful quantitative research into early modern
+            Dutch songs and how their dominant topics changed over time. I have established what topics dominated early
+            modern Dutch songs by performing topic modelling &#x2013; a way to identify the topics that occur in a
+            collection of documents &#x2013; on a corpus of 43,772 Dutch songs from the period 1550-1750.
+        </p>
+        <p>The aims of this article are manifold. Firstly, it aims at contributing to a better understanding of the
+            richness of the Dutch Song Database. At the point of writing, it lacks comprehensive metadata &#x2013; an
+            example being information regarding song genre, which makes the search for songs of a specific genre a
+            frustrating task. The results published in this article may therefore serve to increase the database&#x2019;s
+            usability for future researchers. Secondly, through two case studies I will analyse the dynamics which can
+            be observed in the fluctuation of dominant topics over time, and suggest how these changes in topical
+            distributions can be related to the cultural-historical context in which they occur. Finally, I wish to
+            demonstrate how this methodology can contribute to further research into early modern Dutch songs, and,
+            indeed, into other textual genres.
+        </p>
+        <p>Although I am, in this study, using methods never before applied to early modern songs, I also rely heavily
+            on previous, qualitative, research into early modern Dutch song culture. The two cases discussed in more
+            detail are well known from existing studies: the role of Petrarchism in early modern Dutch songs, and the
+            way in which songs were used to articulate a patriotic identity &#x2013; with the <italic>Wilhelmus</italic> being
+            perhaps the classic example. To explore how these two cases can be related to the results of a quantitative
+            approach to researching Dutch song culture, I use a sample of the Dutch Song Database, containing songs from
+            1550-1750. The article begins by offering a historical background of the two cases. The second section will
+            discuss the corpus and its characteristics in more detail, the third section the methods I have employed,
+            and the two subsequent sections contain my results. The article concludes with an evaluation of how the
+            combination of qualitative and quantitative methods can enlarge our knowledge of early modern song culture.
+        </p>
+        <sec id="s1">
+            <title>Petrarchism and Patriotism in Dutch Songs</title>
+            <p>The starting point of my first case study is that the poetry of early modern Dutch poets became
+                increasingly embedded in a Renaissance and classical tradition. Inspired by the manner in which Italian
+                and French writers adapted the traditions of Greek and Latin poetry, Dutch poets also appropriated their
+                topics and genres. An important example of this embedding in the Renaissance tradition was the practice
+                of the Petrarchan genre. The Italian Renaissance poet Francesco Petrarca &#x2013; or Petrarch, as he is
+                known in English &#x2013; was a fourteenth-century Italian poet, whose fame extended beyond his country&#x2019;s
+                own borders already during his lifetime.
+                <xref ref-type="fn" rid="fn10">
+                    <sup>10</sup>
+                </xref>
+                One of the reasons for Petrarch&#x2019;s fame was the popularity of his love poetry. His love sonnets
+                were distinguished by the worship of a charming but unreachable woman, which meant that love always
+                causes both happiness and pain in his poems. The physical beauty of the beloved is often described using
+                natural metaphors and mythological references. The lover is often characterized as someone with a split
+                personality, who struggles with suicidal tendencies.
+                <xref ref-type="fn" rid="fn11">
+                    <sup>11</sup>
+                </xref>
+            </p>
+            <p>In his study on seventeenth-century songbooks for youngsters, Grootes argues that one would not expect
+                Petrarchism to become popular in the Low Countries, since the trope of the unreachable woman was
+                paradoxical to the actual surplus of women in Amsterdam and the province of Holland at the time:
+                &#x2018;At first sight, there seems to be no ground for the humbly pleading of the lovers, nor for the
+                presentation of the songbooks as instruments to make the girls a little more obliging.&#x2019;<xref
+                        ref-type="fn" rid="fn12">
+                    <sup>12</sup>
+                </xref>
+                Even so, Grootes suggests that the ideology of Petrarchism, with its emphasis on restraint and the lack
+                of sexual boldness, probably fitted perfectly with the marriage policy advocated by the parents.
+                <xref ref-type="fn" rid="fn13">
+                    <sup>13</sup>
+                </xref>
+                He also cites the literary scholar August Keersmaekers, who has argued that the songbook <italic>Den
+                    Nieuwen Lust-hof
+                </italic> (1602) could be interpreted as part of &#x2018;a culture of piety propagated and imposed from
+                above&#x2019;, in opposition to the older songbooks.
+                <xref ref-type="fn" rid="fn14">
+                    <sup>14</sup>
+                </xref>
+                The quantitative methods used in this study are ideally suited to explore whether the popularity of the
+                classic genres, and the Petrarchan genre in particular, can be found in the current research corpus.
+                Furthermore, qualitative research has not paid attention to the moment of decline in popularity of these
+                genres, something which the methodology used in this study might also shed light.
+            </p>
+            <p>Another claim that will be tested in this study is how songs were used to articulate a feeling of
+                patriotism. As Cornelis van der Haven notes, a long tradition of aggressive patriotic rhetoric can be
+                found in Dutch literature, a tradition that is strongly related to the Dutch liberation myth of the
+                struggle against Habsburg Spain that would be constructed in later centuries.
+                <xref ref-type="fn" rid="fn15">
+                    <sup>15</sup>
+                </xref>
+                In times of war or political crisis, feelings of patriotism and unity are aroused and propagated by,
+                among others, poems and songs.
+                <xref ref-type="fn" rid="fn16">
+                    <sup>16</sup>
+                </xref>
+                A social activity, singing together created a feeling of belonging to a particular group, and
+                contributed to the formation and maintenance of a social identity and an imagined community.
+                <xref ref-type="fn" rid="fn17">
+                    <sup>17</sup>
+                </xref>
+                Regarding the early modern Netherlands, Dieuwke van der Poel, Louis Grijp, and Wim van Anrooij have
+                distinguished seven singing groups. The &#x2018;political group&#x2019; is most relevant in this
+                context, which they describe as a group &#x2018;(often with a specific religious affiliation) such as
+                the anti-Catholic and anti-Spanish <italic>Geuzen</italic> (&#x2018;Beggars&#x2019;)&#x2019;.
+                <xref ref-type="fn" rid="fn18">
+                    <sup>18</sup>
+                </xref>
+                Their protest songs &#x2013; known as beggar songs &#x2013; became very popular in the late sixteenth
+                century. Initially they were published and disseminated via broadsheets, but before long they were
+                bundled together and published in a songbook called <italic>Nieu Geusen Liedtboexcken</italic> (The New
+                Beggars&#x2019; Songbook). The oldest edition of this song book dates from 1577, and several reprints
+                were published in subsequent years. The songs were intended as inflammatory news announcements that
+                would encourage revolt.
+                <xref ref-type="fn" rid="fn19">
+                    <sup>19</sup>
+                </xref>
+            </p>
+            <p>Songbooks were the most obvious way to articulate an identity, in other words, to express one&#x2019;s
+                belonging to a group. Often group identity was already prominent in the title, for example in the
+                <italic>Nieu Geusen liedtboecxken.</italic>
+                <xref ref-type="fn" rid="fn20">
+                    <sup>20</sup>
+                </xref>
+                Furthermore, identity was also articulated through song lyrics &#x2013; which is something I will
+                explore in this article. Although the <italic>Wilhelmus</italic> is the most well-known of all beggar
+                songs, and one which retained both its political overtone and signalling function long after the 1648
+                Peace of M&#x00FC;nster, there were many other songs.
+                <xref ref-type="fn" rid="fn21">
+                    <sup>21</sup>
+                </xref>
+                While their popularity probably did not reach the height of the current Dutch national anthem, their
+                tropes of nation and identity likely resonated with the inhabitants of the Dutch Republic. That being
+                said, there were also songs expressing love for the fatherland without specific political orientation,
+                in which the whole Dutch nation was addressed as one political group, especially in times of war. During
+                the seventeenth century, patriotic ideas became more widespread, a movement which was not only down to
+                the beggars and their repertoire. Orthodox Protestant ministers also started to elaborate on the idea
+                that God, the Netherlands, and the House of Orange were inextricably connected.
+                <xref ref-type="fn" rid="fn22">
+                    <sup>22</sup>
+                </xref>
+            </p>
         </sec>
-        <sec>
-            <title> Struktur </title>
-            <p>x1</p>
-            <sec>
-                <title> title 1 </title>
-                <p>x1</p>
-                <sec>
-                    <title> title 2 </title>
-                    <p>x2</p>
-                    <sec>
-                        <title> title 3</title>
-                        <p>x3</p>
-                        <sec>
-                            <title> title 4</title>
-                            <p>x4</p>
-                            <sec>
-                                <title> title 5 </title>
-                                <p>x5</p>
-                                <sec>
-                                    <title> title 6 </title>
-                                    <p>x6</p>
-                                    <sec>
-                                        <title> title 7</title>
-                                        <p>x7</p>
-                                        <sec>
-                                            <title> title 8</title>
-                                            <p>x8</p>
-                                            <p>
-                                                <speech id="s1">
-                                                  <speaker>Paul</speaker>
-                                                  <p> I sam text<italic>I am italic</italic></p>
-                                                </speech>
-                                            </p>
-                                            <p>
-                                                <speech id="s20">
-                                                  <speaker> Speaker</speaker>
-                                                  <p> I have a link &lt;L&gt;.<xref ref-type="fn"
-                                                  rid="bibd2e50">1</xref>
-                                                  </p>
-                                                </speech>
-                                            </p>
-                                        </sec>
-                                    </sec>
-                                </sec>
-                            </sec>
-                        </sec>
-                    </sec>
-                </sec>
-            </sec>
+        <sec id="s2">
+            <title>The Dutch Song Database</title>
+            <p>To test whether these trends can be found in a larger research corpus, I have relied on the Dutch Song
+                Database, which contains the metadata of approximately 175,000 songs in the Dutch language, from the
+                Middle Ages up to the twentieth century. The database was initiated in the early 1990s by Louis Grijp,
+                who continued to lead its development until 2015. During these years, many research and documentation
+                projects have been carried out, and so an enormous amount of high-quality data has been collected.
+                Nowadays, the Dutch Song Database offers a rich cross-section of Dutch song culture throughout history.
+                <xref ref-type="fn" rid="fn23">
+                    <sup>23</sup>
+                </xref>
+                It contains several genres, including love songs, satirical songs, psalms and other religious songs,
+                folksongs, and children&#x2019;s songs. For every song, the source for the text and/or the melody are
+                indicated. Other available metadata include the author&#x2019;s name (if known), the first line, the
+                number of stanzas, genre, melody, stanza form, and number of verses. In addition, the results of the
+                project Dutch Songs On Line became available in 2014.
+                <xref ref-type="fn" rid="fn24">
+                    <sup>24</sup>
+                </xref>
+                The project has made 53,351 full song texts accessible online. Of these texts, 29,590 have had both
+                their lyrics and metadata encoded with <sc>tei</sc> compliant <sc>xml</sc>, which provides the
+                publication date, geographical location, melody, and genre. For the purposes of this study, I have
+                limited this sample to songs that were printed and published between 1550 and 1750, which resulted in a
+                corpus of 22,297 songs. This number does not yet include the reprints and appearances of these songs in
+                other songbooks. Since I wish to examine which song topics were more prevalent than others, it is
+                necessary to include these data as well. Although the number of different lyrics will remain the same,
+                the distribution of the songs can change. Suppose, for example, that songs on politics and history,
+                which are not very prominent in the corpus based on the data in <xref ref-type="table" rid="tb001">tab.
+                    1</xref>, are reprinted so often that their number increases massively, while songs on love are
+                rarely reprinted. This would influence the distribution of topics in such a way that political and
+                historical topics are more dominant than love topics. Expanding the corpus with reprints resulted in a
+                corpus of 43,772 songs.
+                <xref ref-type="fn" rid="fn25">
+                    <sup>25</sup>
+                </xref>
+                Their distribution over time is visualized in <xref ref-type="fig" rid="fg001">fig. 1</xref>.
+            </p>
+            <table-wrap id="tb001">
+                <label>Tab. 1</label>
+                <caption>
+                    <p>Number of songs in the Dutch Song Database by category and average word length. N &#x003D;
+                        22,297.
+                    </p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                    <thead>
+                        <tr>
+                            <th align="left" valign="top">Category</th>
+                            <th align="left" valign="top">Number of songs</th>
+                            <th align="left" valign="top">Average number of words per song</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" valign="top">None</td>
+                            <td align="left" valign="top">7017</td>
+                            <td align="left" valign="top">300</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Religion</td>
+                            <td align="left" valign="top">6914</td>
+                            <td align="left" valign="top">323</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Love and sex</td>
+                            <td align="left" valign="top">3261</td>
+                            <td align="left" valign="top">219</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Seasons and annual events</td>
+                            <td align="left" valign="top">1033</td>
+                            <td align="left" valign="top">296</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Formal genres</td>
+                            <td align="left" valign="top">818</td>
+                            <td align="left" valign="top">334</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Amusement</td>
+                            <td align="left" valign="top">722</td>
+                            <td align="left" valign="top">251</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Emotions</td>
+                            <td align="left" valign="top">694</td>
+                            <td align="left" valign="top">322</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Narratives</td>
+                            <td align="left" valign="top">479</td>
+                            <td align="left" valign="top">363</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Cycle of life</td>
+                            <td align="left" valign="top">473</td>
+                            <td align="left" valign="top">223</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Politics and history</td>
+                            <td align="left" valign="top">300</td>
+                            <td align="left" valign="top">478</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Groups</td>
+                            <td align="left" valign="top">187</td>
+                            <td align="left" valign="top">223</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Children</td>
+                            <td align="left" valign="top">148</td>
+                            <td align="left" valign="top">221</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Occasions</td>
+                            <td align="left" valign="top">100</td>
+                            <td align="left" valign="top">277</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Theatre</td>
+                            <td align="left" valign="top">90</td>
+                            <td align="left" valign="top">207</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Work</td>
+                            <td align="left" valign="top">59</td>
+                            <td align="left" valign="top">360</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">Miscellaneous</td>
+                            <td align="left" valign="top">2</td>
+                            <td align="left" valign="top">91</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <p>Source: Dutch Song Database.</p>
+                </table-wrap-foot>
+            </table-wrap>
+            <fig id="fg001" position="float">
+                <label>Fig. 1</label>
+                <caption>
+                    <p>Annual distribution of songs in the Dutch Song Database, 1550-1750. N &#x003D; 43,722.</p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig1.jpg"/>
+            </fig>
+            <p>
+                <xref ref-type="table" rid="tb001">Tab. 1</xref>
+                gives an overview of the distribution of songs over the various categories, as labelled in the Dutch
+                Song Database.
+                <xref ref-type="fn" rid="fn26">
+                    <sup>26</sup>
+                </xref>
+                The majority of the songs fall into the category &#x2018;religion&#x2019;, followed at a distance by
+                &#x2018;love and sex&#x2019; and &#x2018;seasons and annual events&#x2019;. One might ask why a study on
+                topics in song lyrics is useful, given that data on categories already exist, but a closer look at <xref
+                    ref-type="table" rid="tb001">tab. 1
+            </xref> shows the necessity of such a study. Not only does the categorical division seem rather arbitrary,
+                there are also more than seven thousand songs that have not been assigned to a specific category at all.
+                As such, the available data do not give an accurate overview of the distribution of songs over genres.
+                Moreover, the wide-ranging categories do not reveal how subdivisions within a category are distributed.
+                Are all religious songs on the same aspects of religion? Does &#x2018;love and sex&#x2019; mean that
+                some songs are on love, and others on sex? There is an important difference between a genre and a topic,
+                since a genre can comprise many different topics. A song within the genre &#x2018;love and sex&#x2019;
+                might be a tragic love song, but it could also be a happy, uplifting love song. A quantitative analysis
+                of the songs, using topic modelling, can therefore offer useful information: it offers a more
+                fine-grained classification of the different genres, and will allow the topical fluctuations over time
+                to be made visible.
+            </p>
+            <p>
+                <xref ref-type="table" rid="tb001">Tab. 1</xref>
+                also provides information about the average song length within each genre. It shows that the average
+                length of a song belonging to the genre &#x2018;religion&#x2019; is about one hundred words longer than
+                a song belonging to the category &#x2018;love and sex&#x2019;. The most outstanding outlier is the genre
+                &#x2018;politics and history&#x2019;, whose songs contain, on average, 478 words. The graphs in <xref
+                    ref-type="fig" rid="fg002">fig. 2
+            </xref> give a more detailed insight in the distribution of songs within a genre. For the twelve most
+                popular genres, the number of words per song is plotted against their frequency.
+                <xref ref-type="fn" rid="fn27">
+                    <sup>27</sup>
+                </xref>
+                In general, all genres show a similar distribution: most songs contain between one hundred and three
+                hundred words, with few songs boasting very long word counts. While the genres &#x2018;religion&#x2019;,
+                &#x2018;love and sex&#x2019;, and the songs categorized with &#x2018;none&#x2019; show a similar
+                distribution, the word length within the genre &#x2018;politics and history&#x2019; is more erratic.
+                Compared to other genres, such as &#x2018;amusement&#x2019;, &#x2018;cycle of life&#x2019;, &#x2018;groups&#x2019;,
+                and &#x2018;children&#x2019;, it shows a much wider spread in song lengths. It should be noted that in
+                topic modelling the length of a text might influence its topic probabilities: because a long text
+                contains more words, chances are it contains more topics than a short text.
+            </p>
+            <fig id="fg002" position="float">
+                <label>Fig. 2</label>
+                <caption>
+                    <p>Song lengths by genre in the Dutch Song Database. N &#x003D; 22,297.</p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig2.jpg"/>
+            </fig>
+            <p>One consequence of the piecemeal, project-based process through which this database has been constructed
+                is a skewed representation of certain epochs. For example, while every Dutch monophonic song dated
+                before 1600 and known to exist is included in the database, coverage of later periods is less complete.
+                We also have to take into account that there is likely a genre bias to be uncovered in the compilation
+                of songbooks &#x2013; songs did not have similar chances of survival. Another drawback is that even when
+                all known songs from a certain area are entered in the database, this probably is just a snippet of all
+                songs that have been produced during that time. We can assume that a large fraction of the early modern
+                song production is nowadays unknown to us, either because the documents no longer exist, or because they
+                have not been recovered yet. Furthermore, the survival chances of a printed song are considered to be
+                higher than that of a song in manuscript, and that of eighteenth-century song higher than that of a
+                sixteenth-century song. In recent years, scholars have further explored to what extent the level of loss
+                of historic works can be estimated. Leo Egghe and Goran Proot, for example, have proposed a
+                probabilistic model, based on the frequency with which retrieved copies of historic works survive.
+                <xref ref-type="fn" rid="fn28">
+                    <sup>28</sup>
+                </xref>
+                Mike Kestemont and Folgert Karsdorp have used an unseen species model from ecodiversity to estimate the
+                survival rate of Middle Dutch chivalric epics.
+                <xref ref-type="fn" rid="fn29">
+                    <sup>29</sup>
+                </xref>
+                Although this article will not contribute to the study of survival chances of early modern songs, it is
+                important to note that the corpus I have used is undoubtedly biased and incomplete. Furthermore, these
+                biases potentially change over time, and in that case also have implications for a comparative analysis
+                of topics over time.
+                <xref ref-type="fn" rid="fn30">
+                    <sup>30</sup>
+                </xref>
+            </p>
+        </sec>
+        <sec id="s3">
+            <title>Topic Modelling</title>
+            <p>Topic modelling is a way of extrapolating backwards from a collection of documents to infer the
+                discourses that might have generated them. It is assumed that each document in a collection of documents
+                is constructed from a mix of some set of possible topics. A topic can be understood as a collection of
+                words that have different probabilities of appearance in passages discussing the said topic. The model
+                assigns high probabilities to words and sets of words that tend to co-occur in multiple contexts across
+                the corpus. It must be noted that a topic is a probability distribution over the entire vocabulary, and
+                that these distributions can vary hugely between topics. The ten most frequent words of one topic might
+                together make up fifty percent of the topic, while the ten most frequent words of another topic only
+                cover five percent of the topic. Although looking at the ten most frequent words of a topic is common in
+                most topic modelling papers, it is in fact more insightful to look at the number of words of which the
+                sum of probabilities equalizes a certain percentage.
+            </p>
+            <p>Topic modelling is an unsupervised method, which means that the model makes &#x2018;a wager that patterns
+                in the data are sufficiently strong that different latent classes of observations will make themselves
+                &#x201C;visible&#x201D;&#x200A;&#x2019;.
+                <xref ref-type="fn" rid="fn31">
+                    <sup>31</sup>
+                </xref>
+                This means that the algorithm is not informed about the kind of texts that are imported and what themes
+                it has to look for. The algorithm infers information about individual word meanings based on their
+                repeated appearance in similar contextual situations.
+            </p>
+            <p>For the purposes of this study, topic modelling was performed using the Python package gensim, which
+                contains a wrapper for <sc>mallet</sc>, a Java topic modelling toolkit. I used the statistical technique
+                Latent Dirichlet Allocation (<sc>lda</sc>), which is implemented in <sc>mallet</sc> as well as in other
+                software packages.
+                <xref ref-type="fn" rid="fn32">
+                    <sup>32</sup>
+                </xref>
+                <sc>lda</sc> is the most commonly used topic modelling method. &#x2018;Latent&#x2019; refers to the
+                concept of latent distributions in the model, and &#x2018;Dirichlet&#x2019; is the name of the most
+                commonly used prior distribution, named after the German mathematician Johann Dirichlet. It consists of
+                a nested multilevel structure, in which the three levels &#x2013; word, document, and corpus &#x2013;
+                are distinguished.
+                <xref ref-type="fn" rid="fn33">
+                    <sup>33</sup>
+                </xref>
+            </p>
+            <p>Since topic modelling is an unsupervised method for automatically extracting topics from unlabelled data,
+                it can give no guarantees on the reliability and interpretability of the output. A method to measure the
+                coherence of the topics is therefore highly desirable. A coherent topic is a topic that is semantically
+                interpretable: if a topic consists of the words <italic>Jezus</italic>, <italic>kruis</italic> (cross), <italic>
+                    lijden
+                </italic> (suffering), and <italic>Golgotha</italic>, we are clearly dealing with the crucifixion of
+                Christ. However, a topic can also be a result of either the model&#x2019;s design settings, or of
+                artefacts in the corpus, such as selection criteria leading to an imbalance in represented genres,
+                resulting in topics in which this imbalance is reproduced. This can (but does not necessarily have to)
+                result in a topic that is not semantically interpretable. An example would be a topic consisting of the
+                words <italic>kribbe</italic> (manger), <italic>prins</italic> (prince), <italic>Holland</italic>, <italic>
+                    geus
+                </italic> (beggar), <italic>Venus</italic>, and <italic>minne</italic> (love). A coherence measure
+                indicates whether the formed topics are indeed semantically interpretable.
+            </p>
+            <p>In a 2015 study, Michael R&#x00F6;der, Andreas Both, and Alexander Hinneburg evaluated the performance of
+                several coherence measures. They concluded that the best performing coherence measure was a rather
+                unexplored one, which they labeled
+                <italic>C<sub>v</sub>.
+                </italic>
+                <xref ref-type="fn" rid="fn34">
+                    <sup>34</sup>
+                </xref>
+                <italic>C
+                    <sub>v</sub>
+                </italic>
+                is based on four parts: i) segmentation of the data into word pairs; ii) calculation of word or
+                word-pair probabilities; iii) calculation of a confirmation measure that quantifies how strongly a word
+                set supports another word set; and iv) aggregation of individual confirmation measures into an overall
+                coherence score.
+                <xref ref-type="fn" rid="fn35">
+                    <sup>35</sup>
+                </xref>
+                The coherence score is a value between 0 and 1. In general, a higher coherence score indicates a better
+                quality of topic model.
+                <xref ref-type="fn" rid="fn36">
+                    <sup>36</sup>
+                </xref>
+                To determine the settings for some parameters that have to be set in building a topic model, I used
+                <italic>C</italic>
+                <sub>v</sub>
+                as coherence score.
+                <xref ref-type="fn" rid="fn37">
+                    <sup>37</sup>
+                </xref>
+            </p>
+            <p>In order to build a topic model with gensim, a few preliminary steps have to be taken. An important first
+                step is to reduce spelling variation. The early modern period lacked standardised spelling and grammar,
+                which meant that (and was proliferated by the fact that) Dutch authors and printers attached little
+                value to consistency in spelling, resulting in the coexistence of multiple variants between, and
+                sometimes within, texts. Because topic modelling is based on the position of a unique word in a text
+                (and thus each unique spelling variant) and its distribution through a corpus, spelling variation
+                disturbs the results of the process. Reducing the variation in spelling is therefore a crucial step that
+                needs to be taken. For the English language, several tools have been built over the last years to
+                convert historical spelling variants into their modern equivalent. For the Dutch language, however, such
+                options are limited, and the tools that are available come with both advantages and disadvantages. For
+                the purpose of this study, I used the Dutch setup of the <sc>var</sc>iant Detector (<sc>vard</sc>), a
+                semi-automatic tool introduced by Alistair Baron and Paul Rayson in 2005.
+                <xref ref-type="fn" rid="fn38">
+                    <sup>38</sup>
+                </xref>
+                The tool uses two lists (a normalized word list and a variant list) to suggest or replace variant words
+                with their normalized counterparts. The normalization suggestions are given based on a combination of
+                four different methods: i) known variant replacements; ii) character edit distance; iii) letter rules;
+                and iv) phonetic distance. The Dutch version of <sc>vard</sc>2 was built by Ivan Kisjes and Tessa
+                Wijckmans, and was the result of a collaboration between the <sc>create</sc>-project of the University
+                of Amsterdam and the Dutch digital research platform <italic>Nederlab</italic>. As a training set, they
+                used the first two books of the 1657 edition of the Dutch translation of the Bible.
+                <xref ref-type="fn" rid="fn39">
+                    <sup>39</sup>
+                </xref>
+            </p>
+            <p><sc>vard</sc>2 will find numerous potential normalizations for a given variant. Each of these suggestions
+                is given a confidence score, in the form of a percentage expressing how certain the tool is that this is
+                the correct normalized word. The suggested normalization with the highest confidence score is used to
+                replace each variant. Consider the opening lines of a song from 1598: &#x2018;Reyn maecht
+                eerbaer/aenhoort myn claeghen snel&#x2019; (&#x2018;Pure honourable virgin, hear quickly my complaint&#x2019;). <sc>
+                    vard</sc>2 suggests normalizations for every word, except the word <italic>snel</italic> (quick).
+                The word <italic>reyn</italic> (pure) gets as most popular suggestions the words <italic>rein</italic> (98.47
+                percent) and <italic>reen</italic> (0.39 percent). The percentages show that in this case, <italic>
+                    rein
+                </italic> (clean) is clearly the correct normalization suggestion. For the word <italic>maecht</italic> (virgin),
+                however, the tool offers several potential candidates. The words <italic>maagd</italic> (virgin, 95.59
+                percent), <italic>macht</italic> (power, 42.71 percent), and <italic>maakt</italic> (makes, 38.52
+                percent) are suggested as normalizations, although the high percentage corresponding to <italic>maagd
+                </italic> shows that the tool is still confident that this should be the correct normalized word.
+            </p>
+            <p>However, if the system&#x2019;s normalization methods struggle with a particular variant, the highest
+                confidence score may be relatively low &#x2013; in these cases a threshold is required, which is the
+                minimum confidence score needed for normalization to take place. If the threshold is not met by the top
+                normalization suggestion, the word will not be normalized, and will be left as a variant. The word <italic>
+                    claeghen
+                </italic> (to complain) from the earlier-cited song gets as suggested variants <italic>clean</italic> (0.96
+                percent) and <italic>clan</italic> (0.93 percent). Clearly, <italic>klagen</italic> is not included in
+                the normalized word list. If the threshold is higher than one percent, the word &#x2018;claeghen&#x2019;
+                will remain unnormalized. A higher threshold will increase precision but reduce recall. After using a
+                single text and checking the number of words that were normalized at different thresholds, I decided to
+                set the threshold at fifty percent. Before normalization, the corpus consisted of 217,906 distinct
+                words; after normalization with <sc>vard</sc>2 the number of unique words in the corpus was reduced by
+                23,857, resulting in a corpus with 194,049 distinct words.
+                <xref ref-type="fn" rid="fn40">
+                    <sup>40</sup>
+                </xref>
+            </p>
+            <p>The next pre-processing steps included tokenization &#x2013; meaning that each text was converted to a
+                list with separate words, or tokens &#x2013; and punctuation removal. Subsequently, stop words, which
+                are the very common words (in this case mostly function words such as personal pronouns, propositions,
+                and conjunctions), were removed from the corpus. Using the Python package nltk, a list of one hundred
+                and fifty most frequent words was made. Content words were manually removed from this list and therefore
+                kept in the corpus.
+                <xref ref-type="fn" rid="fn41">
+                    <sup>41</sup>
+                </xref>
+                Furthermore, a threshold was set for words that appear too infrequently in the corpus (no_below).
+                Calculating the coherence score of topic models with different settings for no_below, this threshold was
+                set at 2, which means that words that appear in only one document are ignored.
+                <xref ref-type="fn" rid="fn42">
+                    <sup>42</sup>
+                </xref>
+                The third step was deciding how many topics the model would be creating. Here the coherence score was
+                used again. I built ten topic models with different values for the number of topics, in the range
+                10:100. The coherence score of each model was calculated. It turned out that the model with fifty topics
+                obtained the highest coherence score, and therefore I decided to build the final topic model using this
+                setting.
+                <xref ref-type="fn" rid="fn43">
+                    <sup>43</sup>
+                </xref>
+            </p>
+            <p>The output of a topic model consists of two dataframes (tables): one with the keys of a topic model, the
+                other one with the composition. The dataframe &#x2018;keys&#x2019; contains fifty rows, one for each
+                topic, and two columns: one for the topic id, the other for the words that form a specific topic. The
+                dataframe &#x2018;composition&#x2019; contains as many rows as there are documents in the corpus. The
+                columns are numbered from 0 to 49, corresponding with the id of the topics from &#x2018;keys&#x2019;.
+                The cells from each row contain a value between 0 and 1. The higher a value, the more dominant that
+                topic is in a document. Note that the sum of each row will always be 1, but that the distribution always
+                differs.
+            </p>
+            <p>After building the final topic model, another tool was used to measure the quality of the model, and to
+                get more insight into the topics and how they are related to each other. I used the Python package
+                py<sc>lda</sc>vis, which is a library for interactive topic model visualization. The package extracts
+                information from a fitted <sc>lda</sc> topic model to inform an interactive web-based visualization.
+                After a few steps of pre-processing, the output is an Intertopic Distance Map. <xref ref-type="fig"
+                                                                                                     rid="fg003">Fig. 3
+                </xref> gives an example of the data visualized, in this case topic 27 (&#x2018;world &#x0026; money&#x2019;).
+                Each bubble on the left-hand side of the plot represents a topic.
+                <xref ref-type="fn" rid="fn44">
+                    <sup>44</sup>
+                </xref>
+                The larger the bubble, the more prevalent the topic is within the corpus. A good topic model should have
+                bubbles scattered throughout the chart, rather than clustered in a single quadrant. A model with too
+                many topics will typically have many overlapping small-sized bubbles clustered in one region of the
+                chart. When hovering over the topics, the thirty most prevalent words of that topic are visualized on
+                the right-hand side. Since a topic model only produces bags of words as output, users have to manually
+                interpret the words that make up a topic. To do so, I looked at the number of words that together made
+                up fifteen percent of a given topic. I built a word cloud from every topic, visualizing the upper
+                fifteen percent of words and their weights within a topic. The top thirty words and their weights within
+                every topic are included in an online appendix.
+                <xref ref-type="fn" rid="fn45">
+                    <sup>45</sup>
+                </xref>
+                The topics and the subjects I assigned to them can be found in <xref ref-type="table" rid="tb002">tab.
+                    2</xref>.
+            </p>
+            <table-wrap id="tb002">
+                <label>Tab. 2</label>
+                <caption>
+                    <p>Dominant topics in the Dutch Song Database by sum of weights (&#x003E;&#x003D; 0.1).</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                    <thead>
+                        <tr>
+                            <th align="left" valign="top">Topic no.</th>
+                            <th align="left" valign="top">Subject</th>
+                            <th align="left" valign="top">Sum of weights (&#x003E; 0.1)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="left" valign="top">9</td>
+                            <td align="left" valign="top">religion &#x0026; old spelling</td>
+                            <td align="left" valign="top">2847</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">31</td>
+                            <td align="left" valign="top">religion</td>
+                            <td align="left" valign="top">1684</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">0</td>
+                            <td align="left" valign="top">religion &#x0026; life</td>
+                            <td align="left" valign="top">1508</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">18</td>
+                            <td align="left" valign="top">religion</td>
+                            <td align="left" valign="top">1357</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">19</td>
+                            <td align="left" valign="top">verbs</td>
+                            <td align="left" valign="top">1312</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">39</td>
+                            <td align="left" valign="top">love &#x0026; sadness</td>
+                            <td align="left" valign="top">1172</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">13</td>
+                            <td align="left" valign="top">religion</td>
+                            <td align="left" valign="top">1096</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">38</td>
+                            <td align="left" valign="top">love &#x0026; happiness</td>
+                            <td align="left" valign="top">1072</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">28</td>
+                            <td align="left" valign="top">prayer &#x0026; preaching</td>
+                            <td align="left" valign="top">1026</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">24</td>
+                            <td align="left" valign="top">rejection</td>
+                            <td align="left" valign="top">997</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">10</td>
+                            <td align="left" valign="top">suffering &#x0026; sadness</td>
+                            <td align="left" valign="top">799</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">2</td>
+                            <td align="left" valign="top">love &#x0026; tragedy</td>
+                            <td align="left" valign="top">788</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">6</td>
+                            <td align="left" valign="top">possessives</td>
+                            <td align="left" valign="top">782</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">36</td>
+                            <td align="left" valign="top">religion</td>
+                            <td align="left" valign="top">776</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">1</td>
+                            <td align="left" valign="top">religion &#x0026; Mary</td>
+                            <td align="left" valign="top">776</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">3</td>
+                            <td align="left" valign="top">verbs</td>
+                            <td align="left" valign="top">769</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">30</td>
+                            <td align="left" valign="top">love</td>
+                            <td align="left" valign="top">761</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">48</td>
+                            <td align="left" valign="top">love</td>
+                            <td align="left" valign="top">739</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">27</td>
+                            <td align="left" valign="top">world &#x0026; money</td>
+                            <td align="left" valign="top">738</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">5</td>
+                            <td align="left" valign="top">christmas</td>
+                            <td align="left" valign="top">735</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">7</td>
+                            <td align="left" valign="top">God &#x0026; enemy</td>
+                            <td align="left" valign="top">715</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">49</td>
+                            <td align="left" valign="top">God &#x0026; country (praise)</td>
+                            <td align="left" valign="top">691</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">32</td>
+                            <td align="left" valign="top">nation &#x0026; country</td>
+                            <td align="left" valign="top">670</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">46</td>
+                            <td align="left" valign="top">life &#x0026; sin</td>
+                            <td align="left" valign="top">642</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">12</td>
+                            <td align="left" valign="top">marriage</td>
+                            <td align="left" valign="top">635</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">8</td>
+                            <td align="left" valign="top">life &#x0026; praise</td>
+                            <td align="left" valign="top">631</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">44</td>
+                            <td align="left" valign="top">religion &#x0026; virtue</td>
+                            <td align="left" valign="top">624</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">15</td>
+                            <td align="left" valign="top">Old Testament</td>
+                            <td align="left" valign="top">614</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">47</td>
+                            <td align="left" valign="top">bucolic</td>
+                            <td align="left" valign="top">613</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">21</td>
+                            <td align="left" valign="top">love &#x0026; happiness</td>
+                            <td align="left" valign="top">591</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">42</td>
+                            <td align="left" valign="top">Good Friday &#x0026; Easter</td>
+                            <td align="left" valign="top">571</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">16</td>
+                            <td align="left" valign="top">good &#x0026; evil</td>
+                            <td align="left" valign="top">567</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">14</td>
+                            <td align="left" valign="top">myth &#x0026; beauty</td>
+                            <td align="left" valign="top">559</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">23</td>
+                            <td align="left" valign="top">physical love</td>
+                            <td align="left" valign="top">533</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">40</td>
+                            <td align="left" valign="top">New Testament</td>
+                            <td align="left" valign="top">529</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">17</td>
+                            <td align="left" valign="top">heaven &#x0026; happiness</td>
+                            <td align="left" valign="top">524</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">4</td>
+                            <td align="left" valign="top">religion &#x0026; happiness</td>
+                            <td align="left" valign="top">509</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">34</td>
+                            <td align="left" valign="top">seduction</td>
+                            <td align="left" valign="top">479</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">29</td>
+                            <td align="left" valign="top">drinking</td>
+                            <td align="left" valign="top">465</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">37</td>
+                            <td align="left" valign="top">nature</td>
+                            <td align="left" valign="top">433</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">11</td>
+                            <td align="left" valign="top">unclear</td>
+                            <td align="left" valign="top">345</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">26</td>
+                            <td align="left" valign="top">money &#x0026; work</td>
+                            <td align="left" valign="top">307</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">33</td>
+                            <td align="left" valign="top">unclear</td>
+                            <td align="left" valign="top">285</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">35</td>
+                            <td align="left" valign="top">religion</td>
+                            <td align="left" valign="top">264</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">45</td>
+                            <td align="left" valign="top">old or odd spelling</td>
+                            <td align="left" valign="top">259</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">25</td>
+                            <td align="left" valign="top">sea</td>
+                            <td align="left" valign="top">248</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">22</td>
+                            <td align="left" valign="top">church</td>
+                            <td align="left" valign="top">203</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">41</td>
+                            <td align="left" valign="top">German</td>
+                            <td align="left" valign="top">171</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">43</td>
+                            <td align="left" valign="top">French</td>
+                            <td align="left" valign="top">119</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top">20</td>
+                            <td align="left" valign="top">solfege</td>
+                            <td align="left" valign="top">92</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <p>Source: Dutch Song Database.</p>
+                </table-wrap-foot>
+            </table-wrap>
+            <fig id="fg003" position="float">
+                <label>Fig. 3</label>
+                <caption>
+                    <p>Visualization of topic 27 (&#x2018;world &#x0026; money&#x2019;) in the Dutch Song Database,
+                        1550-1750, using py<sc>lda</sc>vis.
+                    </p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig3.jpg"/>
+            </fig>
+        </sec>
+        <sec id="s4">
+            <title>Dominant Topics</title>
+            <p>The appendix also includes a column with the sum of the weights of the top thirty words. The lower this
+                value, the &#x2018;flatter&#x2019; the distribution of words within a topic, suggesting that the words
+                in these topics are not typical for that specific topic, but occur in many other topics as well. The
+                clearest example of such a word is &#x2018;God&#x2019;: this word has the highest weight in ten topics.
+                Still, its probability can be fairly low (0.00992 in topic 7, 0.0131 in topic 28). An example of a topic
+                with a high sum of weights of the first thirty words is topic 29 (0.2493), to which I assigned the label
+                &#x2018;drinking&#x2019;, due to words such as <italic>wijn</italic> (wine), <italic>drinken</italic> (to
+                drink), <italic>vrolijk</italic> (merry), drinkt (drinks), and <italic>bier</italic> (beer). Another
+                clear example is topic 46 (0.2620), to which &#x2018;life &#x0026; sin&#x2019; was assigned, because of
+                the presence of words such as <italic>wereld</italic> (world), <italic>God</italic>, <italic>leven
+                </italic> (life), <italic>kwaad</italic> (evil), and <italic>sterven</italic> (to die). Topic 5 was
+                labelled as &#x2018;Christmas&#x2019;, due to words as <italic>kindeken</italic> (baby), <italic>stal
+                </italic> (stable), <italic>Bethlehem</italic>, and <italic>Maria</italic>. I assigned &#x2018;love
+                &#x0026; sadness&#x2019; to topic 39, because of the presence of positive words such as <italic>lief
+                </italic> (sweetheart), <italic>liefde</italic> (love), <italic>min</italic> (love), and <italic>
+                    schone
+                </italic> (beautiful) on the one hand, and negative words such as <italic>ach</italic> (oh!), <italic>
+                    pijn
+                </italic> (hurt), <italic>smart</italic> (grief), and <italic>verdriet</italic> (sorrow) on the other.
+                This topic differs from another topic on love (topic 38) in that almost all the words in this topic are
+                positive: <italic>hart</italic> (heart), <italic>vreugd</italic> (joy), <italic>leven</italic> (life), <italic>
+                    min
+                </italic> (love), and <italic>vermaak</italic> (entertainment). I assigned &#x2018;love &#x0026;
+                happiness&#x2019; to this topic.
+            </p>
+            <p>I labelled topic 32 &#x2018;nation &#x0026; country&#x2019;: the words <italic>prins</italic> (prince), <italic>
+                stad
+            </italic> (city), <italic>land</italic> (country), <italic>graaf</italic> (count), and <italic>Holland
+            </italic> leave no doubt that these are words from political songs. However, the sum of weights of the first
+                thirty words in this topic is rather low: 0.1342. The same goes for topic 14. While the words all refer
+                to a topic that I labelled &#x2018;myth &#x0026; beauty&#x2019; (including <italic>Venus</italic>, <italic>
+                    schoonheid
+                </italic> (beauty), <italic>gezicht</italic> (face), <italic>glans</italic> (shine), and <italic>goden
+                </italic> (gods)), the sum of weights is only 0.1429. This suggests that these topics have a flat
+                distribution. In topic 47, words from pastoral or bucolic songs are clustered. Many words refer to the
+                shepherd&#x2019;s life, such as <italic>vee</italic> (cattle), <italic>herder</italic> (shepherd), <italic>
+                    bos
+                </italic> (forest), and <italic>schaepjes</italic> (little sheep). I assigned the label &#x2018;bucolic&#x2019;
+                to this topic. Topic 28 was labelled &#x2018;prayer &#x0026; preaching&#x2019;, because apart from the
+                obvious religious words, there are words in this topic that have an oral connotation &#x2013; <italic>
+                    hoort
+                </italic> (hears), <italic>horen</italic> (to hear), <italic>zeid</italic> (said), <italic>verstaat
+                </italic> (understands), <italic>vermaan</italic> (admonish), and <italic>broeders</italic> (brothers).
+                It turns out that many topics have something to do with religion. This is not surprising, since we
+                already know that almost forty percent of the corpus are songs from the category &#x2018;religion&#x2019;.
+                In some cases, it is quite easy to define a label for a topic (such as &#x2018;religion &#x0026;
+                happiness&#x2019;, &#x2018;religion &#x0026; sin&#x2019;), but in other cases the differences are more
+                difficult to distinguish.
+            </p>
+            <p>To examine which topics dominate the corpus, I selected for each song the topics that covered at least
+                ten percent of the song, meaning that a topic has a minimal weight of 0.1 in a song. Subsequently, I
+                summed these weights per topic (see <xref ref-type="table" rid="tb002">tab. 2</xref>). The topics are
+                ranked by the sum of their weights. Topic 9 is by far the most popular within the corpus. The appendix
+                shows this topic has a rather &#x2018;flat&#x2019; probability distribution: the five most frequent
+                words in this topic (<italic>god</italic>, <italic>wt</italic>, <italic>leun</italic>, <italic>
+                    gods</italic>, <italic>nv</italic>) all have a weight of between 0.01 and 0.02. The oddly spelled
+                words such as <italic>wt</italic>, <italic>leun</italic>, <italic>nv</italic>, <italic>
+                    si</italic>, <italic>bouen</italic>, and <italic>ouer</italic> suggest that topic 9 is rather a
+                result of artefacts in the corpus: the tool used for spelling normalization does not work well on texts
+                written before 1637. <xref ref-type="fig" rid="fg004">Fig. 4</xref> confirms this hypothesis: topic 9
+                peaks between 1550 and 1600, but descends soon after.
+            </p>
+            <fig id="fg004" position="float">
+                <label>Fig. 4</label>
+                <caption>
+                    <p>Relative frequency of topic 9 in the Dutch Song Database, by annual sum of weights (&#x003E;&#x003D;
+                        0.1).
+                    </p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig4.jpg"/>
+            </fig>
+            <p>The rest of the top ten of most dominant topics is made up by topics that relate either to religion or to
+                love, except topic 19, in which words are not clustered on semantic similarity, but on linguistic
+                characteristics. I labelled this topic as &#x2018;verbs&#x2019;, because it consists of words such as <italic>
+                    leven
+                </italic> (to live), <italic>zullen</italic> (shall), <italic>geven</italic> (to give), and <italic>
+                    komen
+                </italic> (to come). The relatively low sum of weights of the first thirty words (0.1573) indicates that
+                these words are not very distinctive for this particular topic, but occur in many other topics. If we
+                take a look at the bottom of the chart, the opposite is the case. Topic 41 consists of German words (<italic>
+                    das
+                </italic> (the), <italic>mein</italic> (mine), <italic>mir</italic> (to me), <italic>ein</italic> (a/an), <italic>
+                    mit
+                </italic> (with)) and has a sum of weights that is above average (0.2697). The same goes for topic 43,
+                which consists of French words and has a sum of weights of 0.3463, as well as for topic 20, consisting
+                of interjections that often occur in children&#x2019;s or folklore songs, with a sum of weights of
+                0.5108. These high values indicate that these words are rather distinctive for these topics.
+            </p>
+            <p>The most dominant topics in the corpus, then, are &#x2018;religion plus something&#x2019;. This is not a
+                surprising result, because the distribution of categories already indicated many religious topics.
+                Still, the topic model has uncovered many differences within the wide-ranging genres of songs. Although
+                many more observations can be made with regard to the fifty most distinctive topics, the next two
+                sections will explore how the dominance of song topics fluctuates in the context of the two cases I
+                introduced earlier: Petrarchan songs and patriotic songs. As we have seen, these are topics that are
+                popular within the corpus, and based on qualitative research we would expect to see some changes over
+                time regarding their popularity. A quantitative approach can be used to detect this.
+            </p>
+        </sec>
+        <sec id="s5">
+            <title>Petrarchism Songs</title>
+            <p>Based on the existing literature, song topics related to the Petrarchistic tradition should be peaking in
+                the beginning of the seventeenth century. These could be topics on the tragic aspects of love, but also
+                topics which can be related to the Renaissance and classical tradition, for example the bucolic genre.
+                Two dominant topics in the second-largest overarching category &#x2013; love &#x2013; are contradictory:
+                topic 39, &#x2018;love &#x0026; sadness&#x2019;, and topic 38, &#x2018;love &#x0026; happiness&#x2019;. <xref
+                        ref-type="fig" rid="fg005">Fig. 5
+                </xref> shows the evolution of these two topics over time, which reveals an interesting pattern: for
+                instance, the topic &#x2018;love &#x0026; sadness&#x2019; peaks about fifty years before the topic
+                &#x2018;love &#x0026; happiness&#x2019;.
+                <xref ref-type="fn" rid="fn46">
+                    <sup>46</sup>
+                </xref>
+                Initially, topic 39 is dominant, but by 1700, topic 38 (&#x2018;love &#x0026; happiness&#x2019;) picks
+                up and rapidly becomes the dominant of the two love topics. The topic &#x2018;love &#x0026; sadness&#x2019;
+                does increase slightly in the eighteenth century, but never comes close to &#x2018;love &#x0026;
+                happiness&#x2019;. &#x2018;Love &#x0026; sadness&#x2019; can be seen as a typical Petrarchan topic: the
+                words <italic>ach</italic> (woe!) and <italic>pijn</italic> (pain) in this topic speak for themselves. <xref
+                        ref-type="fig" rid="fg005">Fig. 5
+                </xref> demonstrates that the popularity of these songs peaked in the early seventeenth century, as
+                expected. It also suggests that towards the end of the seventeenth century, songs with negative emotions
+                were replaced by songs with a rosier view on love.
+            </p>
+            <fig id="fg005" position="float">
+                <label>Fig. 5</label>
+                <caption>
+                    <p>Relative frequency of topics 38 and 39 in the Dutch Song Database, by annual sum of weights (&#x003E;&#x003D;
+                        0.1).
+                    </p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig5.jpg"/>
+            </fig>
+            <p>
+                <xref ref-type="fig" rid="fg006">Fig. 6</xref>
+                shows additional love topics besides the two discussed above, demonstrating that another Petrarchan
+                topic (2, &#x2018;love &#x0026; tragedy&#x2019;) had in fact peaked in the first quarter of the
+                seventeenth century, before being replaced by topic 39. When we take a closer look at the words that
+                form the latter two topics, it becomes clear that they exhibit many similarities: both contain the words <italic>
+                liefste
+            </italic> (dearest), <italic>liefde</italic> (love), <italic>herte</italic> (heart), <italic>minnen</italic> (to
+                love), <italic>pijn</italic> (pain), and <italic>verdriet</italic> (sorrow). However, both topics also
+                contain distinctly different words: topic 2 includes words such as <italic>troost</italic> (consolation), <italic>
+                lijden
+            </italic> (suffering), <italic>genezen</italic> (to heal), and <italic>scheiden</italic> (to separate),
+                while topic 39 consists of words such as <italic>smert</italic> (grief), <italic>waarom</italic> (why), <italic>
+                droeve
+            </italic> (sad), and <italic>sterven</italic> (to die). Semantically the topics are related, but they
+                include different words. Taken together, the two topics suggest the dominance of tragic love over all
+                other love tropes in songs published between 1575 and 1685.
+            </p>
+            <fig id="fg006" position="float">
+                <label>Fig. 6</label>
+                <caption>
+                    <p>Relative frequency of topics 2, 23, 24, 34, 38, and 39 in the Dutch Song Database, by annual sum
+                        of weights (&#x003E;&#x003D; 0.1).
+                    </p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig6.jpg"/>
+            </fig>
+            <p>Topic 24 (&#x2018;rejection&#x2019;) peaked simultaneously with &#x2018;love &#x0026; sadness&#x2019;,
+                between 1650 and 1675. Other love variants, such as &#x2018;seduction&#x2019; and &#x2018;physical love&#x2019;,
+                are less prevalent, but still peak at the same time as topics 39 and 24. These topics may also be
+                connected to the heyday of Petrarchism. A famous Dutch imitator of Petrarch was Pieter Corneliszoon
+                Hooft, whose poems were largely based on the Petrarchan exemplar, in particular the conventions of
+                amorous lyric. The case of Hooft demonstrates that not only poems but also songs were written with the
+                Petrarchan tradition in mind. Hooft&#x2019;s songs ended up in songbooks, accompanied by melodies, and
+                reached a large audience. From 1607, song poets often referred when assigning their melodies to songs
+                from Hooft&#x2019;s play <italic>Granida</italic> (1605).
+                <xref ref-type="fn" rid="fn47">
+                    <sup>47</sup>
+                </xref>
+                These observations are reflected in <xref ref-type="fig" rid="fg006">fig. 6</xref>, which shows that
+                various love topics, which in their own way all relate to Petrarchan love poetry, dominated between 1575
+                and 1650.
+            </p>
+            <p>Other topics related to the humanistic tradition are &#x2018;bucolic&#x2019;, &#x2018;myth &#x0026;
+                beauty&#x2019;, and &#x2018;nature&#x2019;, which are visualized in <xref ref-type="fig" rid="fg007">
+                    fig. 7</xref>. &#x2018;Bucolic&#x2019; refers to the pastoral, a genre originating in the classical
+                tradition and especially in the works of Theocritus and Virgil. The use of mythological figures such as
+                Venus and Phoebus in topic 14 also indicates the imitation of classical genres. There is a clear decline
+                in these topics after 1660. &#x2018;Love &#x0026; sadness&#x2019;, &#x2018;love &#x0026; tragedy&#x2019;,
+                and &#x2018;rejection&#x2019; are overtaken by &#x2018;love &#x0026; happiness&#x2019; (<xref
+                        ref-type="fig" rid="fg006">fig. 6</xref>). The Petrarchan tradition with negative emotions on
+                love seems to have moved to the background, making room for a less dramatic, more light-hearted
+                interpretation of love. An explanation could be that the moralistic attitude described by Keersmaekers,
+                which can be linked to the culture of piety that was blooming in the seventeenth century, was beginning
+                to diminish. Qualitative research could provide more insight into whether (and if so, why) the depiction
+                of the Petrarchan tradition in songs declined in the course of the eighteenth century.
+            </p>
+            <fig id="fg007" position="float">
+                <label>Fig. 7</label>
+                <caption>
+                    <p>Relative frequency of topics 14, 37, and 47 in the Dutch Song Database, by annual sum of weights
+                        (&#x003E;&#x003D; 0.1).
+                    </p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig7.jpg"/>
+            </fig>
+        </sec>
+        <sec id="s6">
+            <title>Patriotic Identity</title>
+            <p>Scholarship has suggested that topics dealing with nation and country peaked during the Dutch Revolt,
+                although they remained dominant after the 1648 Peace of M&#x00FC;nster. I have selected three topics
+                related to politics to test this hypothesis. <xref ref-type="fig" rid="fg008">Fig. 8</xref> shows that
+                topic 32 (&#x2018;nation and country&#x2019;) appeared around 1575 and steadily rose thereafter. The
+                topic remained dominant for at least fifty-five years, a timespan largely coinciding with the Dutch
+                Revolt. Dominant words in this topic are <italic>prins</italic> (prince), <italic>land</italic> (country), <italic>
+                    graaf
+                </italic> (count), <italic>spaensche</italic> (Spanish), and <italic>paus</italic> (pope), confirming
+                that these topics are indeed covered by the beggar songs, which were extremely popular during the Dutch
+                Revolt. It seems likely that the many reprints of the <italic>Nieu Geusen liedtboecxken</italic> (published
+                between 1577 and 1687) are responsible for the dominance of this topic. The song that is most emblematic
+                for topic 32 (because of its high weight) is titled &#x2018;Wel op wel op Spangiaerden&#x2019;, an
+                anti-Spanish song from the <italic>Nieu Geusen liedtboecxken</italic>.
+                <xref ref-type="fn" rid="fn48">
+                    <sup>48</sup>
+                </xref>
+                However, more songbooks with patriotic songs existed in the Dutch Republic.
+                <xref ref-type="fn" rid="fn49">
+                    <sup>49</sup>
+                </xref>
+                Although some of the songs in these songbooks were also included in the beggar songbooks, others that
+                would have fitted the criteria were not. Topic 32 shows a drastic fall around 1640, which coincides with
+                the Peace of M&#x00FC;nster in 1648. The topic is no longer dominant in subsequent decades, bar a little
+                revival between 1675 and 1725. Since all graphs use a rolling average over twenty years, this revival
+                could be the result of the last reprint of the <italic>Nieu Geusen liedtboecxken</italic> in 1687. All
+                in all, <xref ref-type="fig" rid="fg008">fig. 8</xref> suggests that the dominance shown by this topic
+                during the Dutch Revolt did not return, merely that there is perhaps a renewed popularity of patriotic
+                songs during the War of the Spanish Succession (1701-1714), though the line&#x2019;s erratic course
+                demands that caution be shown in making such an interpretation.
+            </p>
+            <fig id="fg008" position="float">
+                <label>Fig. 8</label>
+                <caption>
+                    <p>Relative frequency of topics 7, 32, and 49 in the Dutch Song Database, by annual sum of weights (&#x003E;&#x003D;
+                        0.1).
+                    </p>
+                </caption>
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="figures/emlc.10908_fig8.jpg"/>
+            </fig>
+            <p>Around 1625, when topic 32 began to decrease, the two others gained in popularity, of which &#x2018;God
+                and enemy&#x2019; became even more dominant than topic 32. An important contrast between topics 7 and 49
+                on the one hand, and topic 32 on the other, is the presence of religious words in topics 7 and 49. The
+                only religious word in topic 32 is <italic>God</italic>, with a considerably lower weight, given that
+                words such as <italic>prins</italic> (prince), <italic>land</italic> (country), <italic>stad</italic> (city),
+                and <italic>vijand</italic> (enemy) are more prevalent. Topics 7 and 49 contain more overlap with other
+                religious topics, with the presence of such words as <italic>God</italic>, <italic>boze</italic> (angry), <italic>
+                    Gods
+                </italic> (God&#x2019;s), and <italic>handen</italic> (hands) in topic 7, and <italic>God</italic>, <italic>
+                    zijne
+                </italic> (His), <italic>naam</italic> (name), <italic>heren</italic> (the Lord&#x2019;s), and <italic>
+                    hemel
+                </italic> (heaven) in topic 49. This suggests these are religious songs with a strong focus on the
+                aspects of war, peace, enemy, and the people. The song with the highest weight contribution to topic 49
+                turns out to be a psalm in a translation by Petrus Datheen; indeed, many other songs with a high weight
+                contribution to topic 49 are also psalms. This is not surprising, as many psalms use a vocabulary that
+                expresses a battle against a real or imaginary enemy. The song with the highest weight contribution to
+                topic 7 is from the songbook <italic>Stichtelijcke Gesangen</italic> (1661) and relates the story of the
+                biblical figure Daniel, who was thrown into a lion&#x2019;s den:
+            </p>
+            <disp-quote>
+                <p>When Daniel came in the den</p>
+                <p>Of cruel lions</p>
+                <p>(Who howled with a loud</p>
+                <p>Cry of ferocity),</p>
+                <p>As if into the abyss,</p>
+                <p>Surrounded by wailing,</p>
+                <p>The angel, by God&#x2019;s command,</p>
+                <p>Held the lions&#x2019; jaws,</p>
+                <p>So that they sat meek</p>
+                <p>As if they were lambs.</p>
+            </disp-quote>
+            <disp-quote>
+                <p>The entire world is crawling</p>
+                <p>With cruel enemies,</p>
+                <p>Who would have defiled us,</p>
+                <p>If God had not,</p>
+                <p>By his great might,</p>
+                <p>Chained their hands:</p>
+                <p>But now he puts a limit</p>
+                <p>To all the tyrant&#x2019;s work:</p>
+                <p>And takes heed of his children,</p>
+                <p>Strong and all-knowing.
+                    <xref ref-type="fn" rid="fn50">
+                        <sup>50</sup>
+                    </xref>
+                </p>
+            </disp-quote>
+            <p>Although the first verse relates Daniel&#x2019;s well-known fate, the second contains a reference to a
+                war the singer was involved in. This not only ties in with the aforementioned increase in attention paid
+                by orthodox ministers to patriotic ideas, but also with a broader trend in orthodox circles: during the
+                Further Reformation (a Pietistic movement that began in the second half of the seventeenth century),
+                songs were increasingly considered to be a literary genre through which the dissemination of Pietistic
+                ideas could take place. Proponents of the Further Reformation published their own catechisms, sermon
+                collections, and songbooks, which caused an exponential rise in the number of Reformed songbooks after
+                1650.
+                <xref ref-type="fn" rid="fn51">
+                    <sup>51</sup>
+                </xref>
+            </p>
+            <p>Another explanation for these trends could be that these topics, in addition to their political
+                connotation, also have a military meaning. Furthermore, the topics might also be (partly) formed of
+                songs in which earlier military events are historicized. In summary, the topics related to the
+                fatherland not only show how these songs prevailed during political conflict, but the patriotic ideas
+                they embodied also became increasingly embedded in the seventeenth-century Pietistic tradition.
+            </p>
+        </sec>
+        <sec id="s7">
+            <title>Conclusion</title>
+            <p>This article has shown that computational methods for text analysis offer a meaningful way to analyse a
+                large digital corpus. The benefits of this study are, therefore, multiple: first and foremost, topic
+                modelling has provided a possible solution to the issues addressed in the introduction &#x2013; the lack
+                of metadata on genres in the Dutch Song Database, and the impossibility of searching for genre patterns
+                in this collection. Although the dominance of religious and love topics was to be expected, given the
+                existing genre classification of the database, this study shows that subcategories can be defined within
+                a genre. For example, the built topic model was able to distinguish between several aspects of love,
+                different focuses within the topic &#x2018;religion&#x2019;, and differences in songs with political
+                connotations. These results contribute to a better understanding of the richness of the Dutch Song
+                Database. A recommended next step would be to supplement the missing metadata on genres in the database
+                with the results from this study, as this would facilitate its use by other researchers.
+            </p>
+            <p>Secondly, by exploring the relationship between topical fluctuations and cultural-historical changes in
+                the Dutch Republic, I have shown how quantitatively obtained results can be related to existing
+                scholarship on early modern Dutch song culture. This study confirms that Petrarchan ideas were indeed
+                transmitted through song, a phenomenon that began in the early seventeenth century. Furthermore, the
+                results suggest that the Petrarchan tradition in songs started to decline in the course of the
+                eighteenth century. In addition, this study shows that songs with a patriotic identity became more
+                popular during political crises, and that songs belonging to the religious genre were also used to
+                spread patriotic ideas, a trend coinciding with the heyday of the Further Reformation.
+            </p>
+            <p>More generally, I have shown how, with the methodology used in this study, diachronic developments in
+                textual corpora can be explored. This particular study shows how song lyrics interfere with and react to
+                socio-cultural and political developments, thus demonstrating that songs are a suitable medium through
+                which the historian may gauge the social climate. The question rises, however, whether songs are
+                precursors to or merely the result of socio-cultural trends, something that deserves further research.
+                Furthermore, the proposed method should be improved, so that it may be applied to other corpora, both
+                early modern and modern, both in Dutch and other languages.
+            </p>
+            <p>A few remarks should be made regarding the methods used and the results obtained. In the first place,
+                this study shows the complexity of using historical textual data on a large scale. Although retaining
+                spelling variation might be necessary for other studies or disciplines, in this case it was important
+                that spelling be normalized across the corpus. The method used to reduce spelling variation in this
+                study is not flawless. For example, because the training set of the tool was built from
+                seventeenth-century material, contemporary words were not normalized by the tool. This resulted in
+                topics that were not semantically interpretable; rather, a group of word clusters formed that were based
+                purely on the fact that their words were not normalized. Clear examples are topics 9 and 45, which
+                contain words such as <italic>dij</italic>, <italic>yn</italic>, <italic>soe</italic>, <italic>
+                    uwz</italic>, <italic>jon</italic>, and <italic>fen</italic>. This shows once again that more
+                research into techniques to deal with historical variation in Dutch spelling is crucial.
+            </p>
+            <p>It must also be noted that topic modelling is an oft-debated computational method, not only because it is
+                based on probabilities and the mathematical idea behind the method seems a mystery to many users, but
+                also because it is clear that more work is required on measures to evaluate the results. In this study,
+                evaluation was done by using coherence measures and visualizations, but it is important to stress that
+                these evaluation methods are also not flawless. Another point where intervention of the researcher may
+                have led to biased results was the assigning of a description to topics. This was done by looking at the
+                word cloud of a topic&#x2019;s fifteen percent most dominant words, but it is entirely possible that
+                another researcher would have assigned different subjects to the topics.
+            </p>
+            <p>In general, it should be noted that when using topic modelling, songs originating from a certain context,
+                and sung by multiple groups of peoples for various reasons, are simply reduced to groups of words. It is
+                always necessary, therefore, to interpret and evaluate the results of a topic model in detail, as well
+                as put them in the cultural, sociological, and historical context in which the texts were produced. I
+                have tried to do this to a certain extent, but further research can undoubtedly improve my findings. The
+                same goes for other aspects of songs and song cultures that were not taken into account in this study,
+                but that can certainly affect a song&#x2019;s popularity, such as its musical style and communal singing
+                practices.
+            </p>
+            <p>Scholars have published many qualitative studies on well-known and lesser-known songs, songbooks, and
+                song writers from the Dutch Republic. The aim of this study, in contrast, has been to offer a
+                quantitative perspective, and to demonstrate how the combination of both approaches can offer new
+                perspectives to the field of early modern literary studies. My quantitative research has generated new
+                hypotheses about the Dutch song culture that merit investigation, both by quantitative <italic>and
+                </italic> qualitative literary researchers and cultural historians. I believe that zooming out, while
+                inevitably rendering some details invisible, allows us to see new patterns and generate new hypotheses
+                that can improve our understanding of not only early modern song culture, but Dutch culture at large.
+            </p>
         </sec>
     </body>
     <back>
-        <ack id="ack">
-            <title>Acknowledgement</title>
-            <p> Ackonkowlegement test</p>
-        </ack>
-        <sec sec-type="additional-information">
-            <title>Additional information</title>
-            <fn-group content-type="competing-interest">
-                <title>Competing interests</title>
-                <fn fn-type="conflict" id="conf1">
-                    <p>The authors declare that no competing interests exist.</p>
-                </fn>
-            </fn-group>
-            <fn-group content-type="author-contribution">
-                <title>Author contributions</title>
-                <fn fn-type="con" id="con1">
-                    <p>GPO, Conception and design, Acquisition of data, Analysis and interpretation
-                        of data, Drafting or revising the article</p>
-                </fn>
-                <fn fn-type="con" id="con2">
-                    <p>RMP, Conception and design, Acquisition of data, Analysis and interpretation
-                        of data, Drafting or revising the article</p>
-                </fn>
-                <fn fn-type="con" id="con3">
-                    <p>AAS, Acquisition of data, Drafting or revising the article</p>
-                </fn>
-                <fn fn-type="con" id="con4">
-                    <p>JJL, Acquisition of data, Drafting or revising the article</p>
-                </fn>
-                <fn fn-type="con" id="con5">
-                    <p>JTG, Conception and design, Analysis and interpretation of data, Drafting or
-                        revising the article</p>
-                </fn>
-            </fn-group>
-            <fn-group content-type="ethics-information">
-                <title>Ethics</title>
-                <fn fn-type="other">
-                    <p>Animal experimentation: CD4+ T-cell blasts were cultured from the lymph nodes
-                        and spleens of first generation AND x B10.BR and 5c.c7 TCR transgenic mice
-                        on day 1 of the T-cell protocol in accordance with Lawrence Berkeley
-                        National Laboratory Animal Welfare and Research Committee-approved protocol
-                        17702.</p>
-                </fn>
-            </fn-group>
-        </sec>
+        <ref-list>
+            <title>Bibliography</title>
+            <ref id="r1">
+                <mixed-citation>Blei, David M., Andrew Y. Ng, Michael I. Jordan, and John Lafferty (eds.), &#x2018;Latent
+                    Dirichlet Allocation&#x2019;, <italic>Journal of Machine Learning Research</italic> 3 (2003/4-5)
+                    993-1022.
+                </mixed-citation>
+            </ref>
+            <ref id="r2">
+                <mixed-citation>Bork, Gerrit Jan van, et al., <italic>Algemeen Letterkundig Lexicon</italic> (Leiden
+                    2012).
+                </mixed-citation>
+            </ref>
+            <ref id="r3">
+                <mixed-citation>Bruin, Martine de, &#x2018;Het Wilhelmus tijdens de Republiek&#x2019;, in Louis Peter
+                    Grijp (ed.), <italic>Nationale hymnen. Het Wilhelmus en zijn buren</italic> (Amsterdam 1998) 16-42.
+                </mixed-citation>
+            </ref>
+            <ref id="r4">
+                <mixed-citation>
+                    <italic>Een Nieu Geuse Lieden boecxken</italic>
+                    (Enkhuizen: Jan Jacobs Palensteyn, 1625).
+                </mixed-citation>
+            </ref>
+            <ref id="r5">
+                <mixed-citation>Egghe, Leo, and Goran Proot, &#x2018;The Estimation of the Number of Lost Multi-Copy
+                    Documents. A New Type of Informetrics Theory&#x2019;, <italic>Journal of Informetrics</italic> 1
+                    (2007/4) 257-268.
+                </mixed-citation>
+            </ref>
+            <ref id="r6">
+                <mixed-citation>Gelderblom, Arie-Jan, &#x2018;Investing in Your Relationship&#x2019;, in Els Stronks and
+                    Peter Boot (eds.), <italic>Learned Love. Proceedings of the Emblem Project Utrecht Conference on
+                        Dutch Love Emblems and the Internet
+                    </italic> (The Hague 2007) 131-142.
+                </mixed-citation>
+            </ref>
+            <ref id="r7">
+                <mixed-citation>Grijp, Louis Peter, <italic>Het Nederlandse lied in de Gouden Eeuw. Het mechanisme van
+                    de contrafactuur
+                </italic> (Amsterdam 1991).
+                </mixed-citation>
+            </ref>
+            <ref id="r8">
+                <mixed-citation>Grootes, Eddy, &#x2018;Het jeugdig publiek van de &#x201C;nieuwe liedboeken&#x201D; in
+                    het eerste kwart van de zeventiende eeuw&#x2019;, in Willem van den Berg and Hanna Stouten (eds.), <italic>
+                        Het woord aan de lezer. Zeven literatuurhistorische verkenningen
+                    </italic> (Groningen 1987) 72-88.
+                </mixed-citation>
+            </ref>
+            <ref id="r9">
+                <mixed-citation>Grootes, Eddy, &#x2018;Liedjes over de Tachtigjarige Oorlog in andere bundels dan het
+                    Geuzenliedboek&#x2019;, <italic>De Zeventiende Eeuw</italic> 13 (1997/1) 173-179.
+                </mixed-citation>
+            </ref>
+            <ref id="r10">
+                <mixed-citation>Hooft, Pieter Cornelisz, <italic>Granida</italic>. Lia van Gemert (ed.) (Amsterdam
+                    1998).
+                </mixed-citation>
+            </ref>
+            <ref id="r11">
+                <mixed-citation>Jensen, Lotte (ed.), <italic>The Roots of Nationalism. National Identity Formation in
+                    Early Modern Europe, 1600-1815
+                </italic> (Amsterdam 2016).
+                </mixed-citation>
+            </ref>
+            <ref id="r12">
+                <mixed-citation>Karsdorp, Folgert, Mike Kestemont, and Allen Riddell, <italic>Humanities Data Analysis.
+                    Case Studies with Python
+                </italic> (Princeton 2021).
+                </mixed-citation>
+            </ref>
+            <ref id="r13">
+                <mixed-citation>Keersmaekers, August Albert, <italic>Wandelend in Den Nieuwen Lust-Hof. Studie over een
+                    Amsterdams liedboek 1602-(1604)-1607-(1610)
+                </italic> (Nijmegen 1985).
+                </mixed-citation>
+            </ref>
+            <ref id="r14">
+                <mixed-citation>Kestemont, Mike, and Folgert Karsdorp, &#x2018;Estimating the Loss of Medieval
+                    Literature with an Unseen Species Model from Ecodiversity&#x2019;, <italic>Proceedings of the
+                        Workshop on Computational Humanities Research (CHR 2020)
+                    </italic> (Amsterdam 2020) 44-55.
+                </mixed-citation>
+            </ref>
+            <ref id="r15">
+                <mixed-citation>Kestemont, Mike, et al., <italic>Van wie is het Wilhelmus? De auteur van het Nederlandse
+                    volkslied met de computer onderzocht
+                </italic> (Amsterdam 2017).
+                </mixed-citation>
+            </ref>
+            <ref id="r16">
+                <mixed-citation>Kisjes, Ivan, and Tessa Wijckmans, &#x2018;Adapting a Spelling Normalization Tool
+                    Designed for English to 17th Century Dutch&#x2019;, <italic>Proceedings of the Digital Humanities
+                        Conference 2018
+                    </italic> (Mexico City 2018) 412-413.
+                </mixed-citation>
+            </ref>
+            <ref id="r17">
+                <mixed-citation>Kranenburg, Peter van, Martine de Bruin, and Anja Volk, &#x2018;Documenting a Song
+                    Culture. The Dutch Song Database as a Resource for Musicological Research&#x2019;, <italic>
+                        International Journal on Digital Libraries
+                    </italic> 20 (2019/1) 13-23.
+                </mixed-citation>
+            </ref>
+            <ref id="r18">
+                <mixed-citation>Maertsz., Cornelis, <italic>Stichtelijcke Gesangen, behelsende Bybelsche In-vallen,
+                    Geestelijcke Bedenckingen, Eerlycke Vermaeckingen
+                </italic> (Hoorn: Gerbrant and Jan Martensz., 1661).
+                </mixed-citation>
+            </ref>
+            <ref id="r19">
+                <mixed-citation>Poel, Dieuwke van der, Louis Peter Grijp, and Wim van Anrooij (eds.), <italic>Identity,
+                    Intertextuality, and Performance in Early Modern Song Culture
+                </italic> (Leiden 2016).
+                </mixed-citation>
+            </ref>
+            <ref id="r20">
+                <mixed-citation>Porteman, K., et al., <italic>Een nieuw vaderland voor de muzen. Geschiedenis van de
+                    Nederlandse literatuur 1560-1700
+                </italic> (Amsterdam 2009).
+                </mixed-citation>
+            </ref>
+            <ref id="r21">
+                <mixed-citation>Pritchard, Jonathan K., Matthew Stephens, and Peter Donnelly, &#x2018;Inference of
+                    population structure using multilocus genotype data&#x2019;, <italic>Genetics</italic> 155 (2000/2)
+                    945-959.
+                </mixed-citation>
+            </ref>
+            <ref id="r22">
+                <mixed-citation>Proot, Goran, &#x2018;Survival Factors of Seventeenth-Century Hand-Press Books Published
+                    in the Southern Netherlands. The Importance of Sheet Counts, Sammelb&#x00E4;nde and the Role of
+                    Institutional Collections&#x2019;, in Andrew Pettegree and Flavia Bruni (eds.), <italic>Lost Books.
+                        Reconstructing the Print World of Pre-Industrial Europe
+                    </italic> (Leiden 2016) 160-201.
+                </mixed-citation>
+            </ref>
+            <ref id="r23">
+                <mixed-citation>Proot, Goran, and Leo Egghe, &#x2018;Estimating Editions on the Basis of Survivals.
+                    Printed Programmes of Jesuit Plays in the &#x201C;Provincia Flandro-Belgica&#x201D; before 1773,
+                    with a Note on the &#x201C;Book Historical Law&#x201D;&#x2019;, <italic>The Papers of the
+                        Bibliographical Society of America
+                    </italic> 102 (2008/2) 149-174.
+                </mixed-citation>
+            </ref>
+            <ref id="r24">
+                <mixed-citation>R&#x00F6;der, Michael, Andreas Both, and Alexander Hinneburg, &#x2018;Exploring the
+                    Space of Topic Coherence Measures&#x2019;, <italic>Proceedings of the Eighth ACM International
+                        Conference on Web Search and Data Mining &#x2013; WSDM&#x2019; 15
+                    </italic> (Shanghai 2015) 399-408.
+                </mixed-citation>
+            </ref>
+            <ref id="r25">
+                <mixed-citation>Stronks, Els, &#x2018;Identiteiten van adolescenten in de vroegmoderne liedcultuur. Het
+                    studentenlied als casus&#x2019;, <italic>Nederlandse Letterkunde</italic> 17 (2012/3) 225-248.
+                </mixed-citation>
+            </ref>
+            <ref id="r26">
+                <mixed-citation>Stronks, Els, &#x2018;&#x201C;Dees kennisse zuldy te kope vinnen&#x201D;. Liedcultuur en
+                    de waarde van &#x201C;know how&#x201D; in de vroegmoderne Republiek&#x2019;, <italic>De Zeventiende
+                        Eeuw
+                    </italic> 30 (2014/2) 147-167.
+                </mixed-citation>
+            </ref>
+            <ref id="r27">
+                <mixed-citation>Syed, Shaheen, and Marco Spruit, &#x2018;Full-Text or Abstract? Examining Topic
+                    Coherence Scores Using Latent Dirichlet Allocation&#x2019;, <italic>2017 IEEE International
+                        Conference on Data Science and Advanced Analytics (DSAA)
+                    </italic> (Tokyo 2017) 165-174.
+                </mixed-citation>
+            </ref>
+            <ref id="r28">
+                <mixed-citation>Uglanova, Inna, and Evelyn Gius, &#x2018;The Order of Things. A Study on Topic Modelling
+                    of Literary Texts&#x2019;, <italic>Proceedings of the Workshop on Computational Humanities Research
+                        (CHR 2020)
+                    </italic> (Amsterdam 2020) 57-76.
+                </mixed-citation>
+            </ref>
+            <ref id="r29">
+                <mixed-citation>Van der Haven, Cornelis, &#x2018;Patriotism and Bellicism in German and Dutch Epics of
+                    the Enlightenment&#x2019;, <italic>Arcadia</italic> 47 (2012/1) 54-77.
+                </mixed-citation>
+            </ref>
+            <ref id="r30">
+                <mixed-citation>Veldhorst, Natascha, &#x2018;Pharmacy for the Body and Soul. Dutch Songbooks in the
+                    Seventeenth Century&#x2019;, <italic>Early Music History</italic> 27 (2008) 217-285.
+                </mixed-citation>
+            </ref>
+            <ref id="r31">
+                <mixed-citation>Veldhorst, Natascha, <italic>Zingend door het leven. Het Nederlandse liedboek in de
+                    Gouden Eeuw
+                </italic> (Amsterdam 2009).
+                </mixed-citation>
+            </ref>
+        </ref-list>
         <fn-group>
-            <fn id="bibd2e50">
-                <p> For an explanation of the interview transcript abbreviations used throughout
-                    this work, see Appendix A.</p>
+            <fn id="fn1">
+                <label>1</label>
+                <p>Grijp, <italic>Het Nederlandse lied</italic>, 29. This article is based on the thesis I wrote to
+                    complete the research master&#x2019;s degree in Dutch literature and culture at Utrecht University
+                    in July 2019, supervised by Els Stronks and Folgert Karsdorp. I would like to thank Joris Veerbeek
+                    for being my Python lifeline, and Lucas van der Deijl, Milan van Lange, Judith Pollmann, Kim Smeenk,
+                    the editorial board of
+                    <italic>
+                        <sc>emlc</sc>
+                    </italic>
+                    , and the anonymous reviewers for reading and commenting on earlier versions of this article. The
+                    code that was used in this study can be found at <ext-link ext-link-type="uri"
+                                                                               xlink:href="https://github.com/awlassche/dutch-historical-song-topics">
+                        https://github.com/awlassche/dutch-historical-song-topics
+                    </ext-link> (accessed on 18 October 2022).
+                </p>
+            </fn>
+            <fn id="fn2">
+                <label>2</label>
+                <p>Veldhorst, <italic>Zingend door het leven</italic>, 12.
+                </p>
+            </fn>
+            <fn id="fn3">
+                <label>3</label>
+                <p>Stronks, &#x2018;&#x200A;&#x201C;Dees kennisse zuldy te kope vinnen&#x201D;&#x200A;&#x2019;, 152.</p>
+            </fn>
+            <fn id="fn4">
+                <label>4</label>
+                <p>Grootes, &#x2018;Het jeugdig publiek&#x2019;.</p>
+            </fn>
+            <fn id="fn5">
+                <label>5</label>
+                <p>Stronks, &#x2018;Identiteiten van adolescenten&#x2019;, 225.</p>
+            </fn>
+            <fn id="fn6">
+                <label>6</label>
+                <p>Stronks, &#x2018;&#x200A;&#x201C;Dees kennisse zuldy te kope vinnen&#x201D;&#x200A;&#x2019;.</p>
+            </fn>
+            <fn id="fn7">
+                <label>7</label>
+                <p>Kestemont et al., <italic>Van wie is het Wilhelmus</italic>?
+                </p>
+            </fn>
+            <fn id="fn8">
+                <label>8</label>
+                <p>Veldhorst, &#x2018;Pharmacy&#x2019;, 225-227.</p>
+            </fn>
+            <fn id="fn9">
+                <label>9</label>
+                <p>Grijp, <italic>Het Nederlandse lied</italic>, 13.
+                </p>
+            </fn>
+            <fn id="fn10">
+                <label>10</label>
+                <p>Gelderblom, &#x2018;Investing in Your Relationship&#x2019;, 131.</p>
+            </fn>
+            <fn id="fn11">
+                <label>11</label>
+                <p>Van Bork et al., <italic>Algemeen Letterkundig Lexicon</italic>, &#x2018;petrarkisme&#x2019;.
+                </p>
+            </fn>
+            <fn id="fn12">
+                <label>12</label>
+                <p>Grootes, &#x2018;Het jeugdig publiek&#x2019;, 84.</p>
+            </fn>
+            <fn id="fn13">
+                <label>13</label>
+                <p>Grootes, &#x2018;Het jeugdig publiek&#x2019;, 85.</p>
+            </fn>
+            <fn id="fn14">
+                <label>14</label>
+                <p>Keersmaekers, <italic>Wandelend in Den Nieuwen Lust-Hof</italic>, 119.
+                </p>
+            </fn>
+            <fn id="fn15">
+                <label>15</label>
+                <p>Van der Haven, &#x2018;Patriotism and Bellicism&#x2019;, 56.</p>
+            </fn>
+            <fn id="fn16">
+                <label>16</label>
+                <p>Jensen (ed.), <italic>The Roots of Nationalism</italic>, 18.
+                </p>
+            </fn>
+            <fn id="fn17">
+                <label>17</label>
+                <p>Van der Poel, Grijp, and Van Anrooij, <italic>Identity, Intertextuality, and Performance</italic>, 4.
+                </p>
+            </fn>
+            <fn id="fn18">
+                <label>18</label>
+                <p>Van der Poel, Grijp, and Van Anrooij, <italic>Identity, Intertextuality, and Performance</italic>, 5.
+                </p>
+            </fn>
+            <fn id="fn19">
+                <label>19</label>
+                <p>Veldhorst, &#x2018;Pharmacy&#x2019;, 233.</p>
+            </fn>
+            <fn id="fn20">
+                <label>20</label>
+                <p>Van der Poel, Grijp, and Van Anrooij, <italic>Identity, Intertextuality, and Performance</italic>, 8.
+                </p>
+            </fn>
+            <fn id="fn21">
+                <label>21</label>
+                <p>De Bruin, &#x2018;Het Wilhelmus tijdens de Republiek&#x2019;, 24.</p>
+            </fn>
+            <fn id="fn22">
+                <label>22</label>
+                <p>De Bruin, &#x2018;Het Wilhelmus tijdens de Republiek&#x2019;, 38.</p>
+            </fn>
+            <fn id="fn23">
+                <label>23</label>
+                <p>Van Kranenburg, De Bruin, and Volk, &#x2018;Documenting a Song Culture&#x2019;.</p>
+            </fn>
+            <fn id="fn24">
+                <label>24</label>
+                <p>This project involved cooperation between the <sc>dsd</sc> and the Digital Library of Dutch
+                    Literature (<sc>dbnl</sc>), and was funded through a <sc>nwo</sc> Medium Investments grant.
+                </p>
+            </fn>
+            <fn id="fn25">
+                <label>25</label>
+                <p>Each first print of a song has a <italic>recordid</italic>, which is the id that is mentioned in the <sc>
+                    xml
+                </sc> file of a song. A reprint of a song does not contain a <italic>recordid</italic>, but a <italic>
+                    herdrukid
+                </italic> (<italic>reprintid</italic>) instead. Furthermore, each unique song has an <italic>
+                    incnormid</italic>. This means that a couple of songs with different <italic>recordids</italic> and <italic>
+                    herdrukids
+                </italic> share the same <italic>incnormid</italic>. Songs with the same <italic>incnormid</italic> and/or <italic>
+                    recordid
+                </italic> as the ones already in the corpus were added.
+                </p>
+            </fn>
+            <fn id="fn26">
+                <label>26</label>
+                <p>In recent decades, more than 100 people (researchers, documentalists, interns, and volunteers) have
+                    added metadata to the Dutch Song Database. This was mainly done within the context of a project, at
+                    the Meertens Institute (which still hosts the database) and at other institutions such as the
+                    University of Antwerp.
+                </p>
+            </fn>
+            <fn id="fn27">
+                <label>27</label>
+                <p>I have used a cut-off length of 1,000 words, since there was only a very small number of songs with a
+                    bigger length.
+                </p>
+            </fn>
+            <fn id="fn28">
+                <label>28</label>
+                <p>Egghe and Proot, &#x2018;The Estimation of the Number of Lost Multi-Copy Documents&#x2019;; Proot and
+                    Egghe, &#x2018;Estimating Editions on the Basis of Survivals&#x2019;; Proot, &#x2018;Survival
+                    Factors of Seventeenth-Century Hand-Press Books&#x2019;.
+                </p>
+            </fn>
+            <fn id="fn29">
+                <label>29</label>
+                <p>Kestemont and Karsdorp, &#x2018;Estimating the Loss of Medieval Literature&#x2019;.</p>
+            </fn>
+            <fn id="fn30">
+                <label>30</label>
+                <p>The current study only contains comparative analyses between topics belonging to the same genre.</p>
+            </fn>
+            <fn id="fn31">
+                <label>31</label>
+                <p>Karsdorp, Kestemont, and Riddell, <italic>Humanities Data Analysis</italic>, 267.
+                </p>
+            </fn>
+            <fn id="fn32">
+                <label>32</label>
+                <p>Blei, Ng, and Jordan, &#x2018;Latent Dirichlet Allocation&#x2019;.</p>
+            </fn>
+            <fn id="fn33">
+                <label>33</label>
+                <p>Pritchard, Stephens, and Donnelly, &#x2018;Inference of population structure&#x2019;.</p>
+            </fn>
+            <fn id="fn34">
+                <label>34</label>
+                <p>R&#x00F6;der, Both, and Hinneburg, &#x2018;Exploring the Space of Topic Coherence Measures&#x2019;.
+                </p>
+            </fn>
+            <fn id="fn35">
+                <label>35</label>
+                <p>For a more comprehensible explanation of the method, see Syed and Spruit, &#x2018;Full-Text or
+                    Abstract?&#x2019;.
+                </p>
+            </fn>
+            <fn id="fn36">
+                <label>36</label>
+                <p>For a detailed study on giving meaning to coherence values of topic models, see Uglanova and Gius,
+                    &#x2018;The Order of Things&#x2019;.
+                </p>
+            </fn>
+            <fn id="fn37">
+                <label>37</label>
+                <p>The default parameters were used in all cases in which no parameters are reported.</p>
+            </fn>
+            <fn id="fn38">
+                <label>38</label>
+                <p>An updated version, the <sc>vard</sc>2 tool, was used in this study.
+                </p>
+            </fn>
+            <fn id="fn39">
+                <label>39</label>
+                <p>Kisjes and Wijckmans, &#x2018;Adapting a Spelling Normalization Tool&#x2019;.</p>
+            </fn>
+            <fn id="fn40">
+                <label>40</label>
+                <p>In my master&#x2019;s thesis, on which this article is based, I compared the results of three
+                    versions of the corpus: the original version, the version that was normalized with a straightforward
+                    script that used <sc>inl</sc> to normalize words, and the version that was normalized with the <sc>
+                        vard2</sc>-tool. Both the results of the normalization and the coherence of the topic model
+                    showed that the latter version of the corpus had the greatest research potential.
+                </p>
+            </fn>
+            <fn id="fn41">
+                <label>41</label>
+                <p>These were the words <italic>God</italic>, <italic>Gods</italic>, <italic>leven</italic>, <italic>
+                    hert</italic>, <italic>ziel</italic>, <italic>liefde</italic>, <italic>tijd</italic>, <italic>
+                    vreugd</italic>, <italic>here</italic>, <italic>geest</italic>, <italic>woord</italic>, <italic>
+                    lief</italic>, <italic>min</italic>, <italic>kwaad</italic>, <italic>zonden</italic>, <italic>
+                    heren</italic>, <italic>lof</italic>, <italic>hand</italic>, <italic>wereld</italic>, <italic>
+                    mens</italic>, <italic>mensen</italic>, and <italic>recht</italic>.
+                </p>
+            </fn>
+            <fn id="fn42">
+                <label>42</label>
+                <p>The setting of this parameter was decided after calculating the coherence score of three topic models
+                    with a no_below of respectively 2, 5, and 10. The topic model of no_below &#x003D; 2 gained the
+                    highest coherence score.
+                </p>
+            </fn>
+            <fn id="fn43">
+                <label>43</label>
+                <p>The coherence score of the final topic model was 0.4962.</p>
+            </fn>
+            <fn id="fn44">
+                <label>44</label>
+                <p>Note that py<sc>lda</sc>vis starts counting at 1, while the topics made with gensim start at 0. Each
+                    number <italic>x</italic> in the py<sc>lda</sc>vis-plot therefore corresponds with topic id <italic>
+                        x</italic>-1. Moreover, because py<sc>lda</sc>vis starts counting at 1, but gensim at 0, one
+                    should add +1 to every topic. Topic 27 is therefore depicted as topic 28 in this visualization.
+                </p>
+            </fn>
+            <fn id="fn45">
+                <label>45</label>
+                <p>See for the appendix: <ext-link ext-link-type="uri"
+                                                   xlink:href="https://github.com/awlassche/dutch-historical-song-topics/blob/main/data/appendix.csv">
+                    https://github.com/awlassche/dutch-historical-song-topics/blob/main/data/appendix.csv
+                </ext-link> (accessed on 18 October 2022).
+                </p>
+            </fn>
+            <fn id="fn46">
+                <label>46</label>
+                <p>I used a rolling average of twenty years in all graphs, to let &#x2018;accidental&#x2019; differences
+                    between years have less impact on the analysis.
+                </p>
+            </fn>
+            <fn id="fn47">
+                <label>47</label>
+                <p>Hooft, <italic>Granida</italic>, 1.
+                </p>
+            </fn>
+            <fn id="fn48">
+                <label>48</label>
+                <p><italic>Een Nieu Geuse Lieden boecxken</italic>, no. 116.
+                </p>
+            </fn>
+            <fn id="fn49">
+                <label>49</label>
+                <p>Grootes, &#x2018;Liedjes over de Tachtigjarige Oorlog&#x2019;, 173.</p>
+            </fn>
+            <fn id="fn50">
+                <label>50</label>
+                <p>Maertsz., <italic>Stichtelijcke gesangen</italic>, 200-201.
+                </p>
+            </fn>
+            <fn id="fn51">
+                <label>51</label>
+                <p>Porteman et al., <italic>Een nieuw vaderland voor de muzen</italic>, 658-660.
+                </p>
             </fn>
         </fn-group>
-        <ref-list>
-            <title>References</title>
-            <ref id="bib1">
-                <element-citation publication-type="journal">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Adams</surname>
-                            <given-names>JJ</given-names>
-                        </name>
-                        <name>
-                            <surname>Narayanan</surname>
-                            <given-names>S</given-names>
-                        </name>
-                        <name>
-                            <surname>Liu</surname>
-                            <given-names>B</given-names>
-                        </name>
-                        <name>
-                            <surname>Birnbaum</surname>
-                            <given-names>ME</given-names>
-                        </name>
-                        <name>
-                            <surname>Kruse</surname>
-                            <given-names>AC</given-names>
-                        </name>
-                        <name>
-                            <surname>Bowerman</surname>
-                            <given-names>NA</given-names>
-                        </name>
-                        <etal/>
-                    </person-group>
-                    <year>2011</year>
-                    <article-title>T cell receptor signaling is limited by docking geometry to
-                        peptide-major histocompatibility complex</article-title>
-                    <source>Immunity</source>
-                    <volume>35</volume>
-                    <fpage>681</fpage>
-                    <lpage>93</lpage>
-                    <pub-id pub-id-type="doi">10.1016/j.immuni.2011.09.013</pub-id>
-                </element-citation>
-            </ref>
-            <ref id="bib1a">
-                <element-citation publication-type="journal">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Altan-Bonnet</surname>
-                            <given-names>G</given-names>
-                        </name>
-                        <name>
-                            <surname>Germain</surname>
-                            <given-names>RN</given-names>
-                        </name>
-                    </person-group>
-                    <year>2005</year>
-                    <article-title>Modeling T Cell antigen discrimination based on feedback control
-                        of digital ERK responses</article-title>
-                    <source>PLoS Biol</source>
-                    <volume>3</volume>
-                    <fpage>e356</fpage>
-                    <pub-id pub-id-type="doi">10.1371/journal.pbio.0030356</pub-id>
-                </element-citation>
-            </ref>
-
-        </ref-list>
     </back>
 </article>
